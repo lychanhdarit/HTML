@@ -1,0 +1,237 @@
+/* Copyright (C) YOOtheme GmbH, http://www.gnu.org/licenses/gpl.html GNU/GPL */
+
+/* News Show Pro GK4
+----------------------------------------------------------------------------------------------------*/
+.nspMainPortalMode4 .nspArt { padding-left: 21px;}
+.nspMainPortalMode4 .nspArt img {
+        -webkit-transition:opacity 0.3s ease-in, bottom 0.3s ease-in;  
+        -moz-transition:opacity 0.3s ease-in, bottom 0.3s ease-in;  
+        -o-transition:opacity 0.3s ease-in, bottom 0.3s ease-in;
+}
+.nspMainPortalMode4 .nspArt.active img { background: none; margin: 0!important; }
+.nspMainPortalMode4 .nspHeader { width: 100%; background: #dd555f; background: rgba(221, 85, 95, 0.9); padding: 0; border-radius: 0; -moz-border-radius: 0; -webkit-border-radius: 0; margin: 0!important; }
+.nspMainPortalMode4 .nspImages { padding-left: 15px; }
+.nspMainPortalMode4 .nspArtHeadline,
+.nspMainPortalMode4 .nspArt:hover .nspArtHeadline { width:160px; text-align: center; }
+.nspMainPortalMode4 .nspArt:hover img {
+        opacity: 0.7;
+        -webkit-transition:opacity 0.3s ease-in, bottom 0.3s ease-in;  
+        -moz-transition:opacity 0.3s ease-in, bottom 0.3s ease-in;  
+        -o-transition:opacity 0.3s ease-in, bottom 0.3s ease-in;
+}
+
+.nspMainPortalMode4 .nspPrev,
+.nspMainPortalMode4 .nspNext { height: 26px;
+    width: 26px;
+    display: block;
+    background: transparent url('../images/nsp_portal_mode_7_interface.png') no-repeat 0 0;
+    text-indent: -999em;
+    margin-top: -13px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out 0s; }
+.nspMainPortalMode4 .nspPrev { position: absolute; top: 50%; left: 0; z-index: 1; }
+.nspMainPortalMode4 .nspNext { background-position: -26px 0; position: absolute; top: 50%; right: 0; z-index:1; }
+.nspMainPortalMode4 .nspPrev:hover { background-position: 0 -26px; transition: all 0.2s ease-in-out 0s; }
+.nspMainPortalMode4 .nspNext:hover { background-position: -26px -26px; transition: all 0.2s ease-in-out 0s; }
+
+div.ns2-created:before {
+    content: "\f073";
+    font-family: FontAwesome;
+}
+
+.ns2-title {
+    font-weight: normal !important;
+}
+
+div.nssp2-default .ns2-art-prev {
+    height: 26px;
+    width: 26px;
+    display: block;
+    background: transparent url('../images/nsp_portal_mode_7_interface.png') no-repeat 0 0;
+    background-position: 0 0;
+    text-indent: -999em;
+    margin-top: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+div.nssp2-default .ns2-art-next {
+    height: 26px;
+    width: 26px;
+    display: block;
+    background: transparent url('../images/nsp_portal_mode_7_interface.png') no-repeat 0 0;
+    background-position: -26px 0;
+    text-indent: -999em;
+    margin-top: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out 0s;
+    margin-right: 50px;
+}
+
+div.nssp2-default .ns2-art-prev:hover { background-position: 0 -26px; transition: all 0.2s ease-in-out 0s; }
+div.nssp2-default .ns2-art-next:hover { background-position: -26px -26px; transition: all 0.2s ease-in-out 0s; }
+
+div.nssp2-default .ns2-art-pagination, div.nssp2-default .ns2-links-pagination {
+    float: left;
+    margin: 10px;
+}
+
+a.ns2-readmore span {
+        padding: 6px 10px;
+        color: #fff;
+	border: 1px solid #757575;
+        border-radius: 5px;
+        background: #757575;
+        -moz-box-shadow: 0px -2px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -2px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -2px 0px 0px rgba(0,0,0,0.2) inset;
+        transition: all 0.3s ease-in-out 0s; 
+}
+a.ns2-readmore span:after {
+	margin-left: 5px;
+        content: "\f055";
+        font-family: FontAwesome;
+}
+
+a.ns2-readmore span:hover {
+	color: #FFF;
+        background: #505050;
+        transition: all 0.3s ease-in-out 0s;
+}
+
+h4.ns2-title {font-size:20px; font-weight:bold; margin-top: -1px; }
+
+div.ns2-category:before {
+	position:absolute;
+        font-family: proxima-nova;
+        top:0;
+        left:-5px;
+        content: "\25AE"
+}
+div.ns2-category {
+	margin-right: 5px;
+}
+
+img.ns2-image:hover {
+	-webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -ms-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+        opacity: 0.7; 
+}
+
+/* PBBooking
+----------------------------------------------------------------------------------------------------*/
+table#pbbooking {
+    border-collapse: separate;
+    border-spacing: 5px;
+    width:100%;
+}
+
+td.fully-booked {
+	border: none;
+        border-radius: 8px;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        color: #ffffff;
+	background: #dd555f;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+td.fully-booked:hover {
+	border: none;
+        border-radius: 8px;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        color: #ffffff;
+	background: #b1444c;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+td.pbbooking-busy-cell {
+	border: 1px solid #b1444c;
+        border-radius: 8px;
+        color: #ffffff;
+	background: #dd555f;
+}
+
+td.selected_day {
+	border: 1px solid #ddd;
+        border-radius: 8px;
+        background: #fff;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+td.selected_day:hover {
+        background: #f5f5f5;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(221, 85, 95, 1) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(221, 85, 95, 1) inset;
+        box-shadow: 0px -4px 0px 0px rgba(221, 85, 95, 1) inset;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+td.pbbooking-free-cell {
+	border: 1px solid #ddd;
+        border-radius: 8px;
+        background: #fff;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+td.pbbooking-free-cell:hover {
+        background: #f5f5f5;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(221, 85, 95, 1) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(221, 85, 95, 1) inset;
+        box-shadow: 0px -4px 0px 0px rgba(221, 85, 95, 1) inset;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+button, input[type="button"], input[type="submit"] {
+	padding: 10px;
+        color: #fff;
+	border: 1px solid #757575;
+        border-radius: 4px;
+        background: #757575;
+        -moz-box-shadow: 0px -2px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -2px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -2px 0px 0px rgba(0,0,0,0.2) inset;
+        transition: all 0.3s ease-in-out 0s;
+}
+
+input[type="submit"]:hover {
+	color: #FFF;
+	background: #505050;
+        transition: all 0.3s ease-in-out 0s;
+}

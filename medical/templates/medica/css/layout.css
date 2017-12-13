@@ -1,0 +1,183 @@
+/* Copyright (C) YOOtheme GmbH, http://www.gnu.org/licenses/gpl.html GNU/GPL */
+
+@import url(../warp/css/layout.css);
+
+
+/* Spacing
+----------------------------------------------------------------------------------------------------*/
+
+.module,
+#breadcrumbs,
+#content,
+#footer { margin: 15px; }
+
+#footer .module { margin: 0; }
+#footer .module ul { padding-left: 0; }
+
+#toolbar,
+#headerbar { margin-bottom: 0; }
+
+#header { margin-bottom: 0;}
+
+
+/* Layout
+----------------------------------------------------------------------------------------------------*/
+/* Blocks*/
+#menubar {
+        background: #fff;
+        margin-top: 15px;
+        border-bottom: none;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+	border: 1px solid #ddd;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+}
+
+#block-toolbar {
+	padding: 5px 0;
+        color: #888;
+        background: #fff;
+}
+
+#block-header {
+	background: #407087;
+	box-shadow: 0 1px 0 rgba(255,255,255,0.05) inset;
+}
+
+#block-top-a {
+        background: #fff;
+	border: 1px solid #ddd;
+	border-top: none;
+	border-left: none;
+	border-bottom-color: #ddd;
+	border-right: none;
+}
+.wrapper.max-width65 { max-width: 65%; }
+.wrapper.max-width80 { max-width: 80%; }
+.wrapper.max-width100 { max-width: 100%; }
+
+#block-top-b {
+        padding: 15px 0;
+        background: #f2f2f2;
+	border: 1px solid #ddd;
+	border-top: none;
+	border-left: none;
+	border-bottom-color: #ddd;
+	border-right: none;
+}
+
+#block-main {
+	padding: 15px 0;
+	background: #fff;
+}
+
+#block-bottom-a {
+        background: #f2f2f2;
+	border: 1px solid #ddd;
+	border-top-color: #ddd;
+	border-left: none;
+	border-bottom-color: #ddd;
+	border-right: none;
+}
+.wrapper.max-width65 { max-width: 65%; }
+.wrapper.max-width80 { max-width: 80%; }
+.wrapper.max-width100 { max-width: 100%; }
+
+#block-bottom-b {
+	padding: 15px 0;
+	background: #fff;
+	box-shadow: 0 -1px 0 rgba(255,255,255,0.05) inset;
+	color: #777;
+}
+
+#block-bottom-c {
+	padding: 15px 0;
+	background: #343434;
+	box-shadow: 0 -1px 0 rgba(255,255,255,0.05) inset;
+	color: #777;
+}
+
+#block-bottom-c .menu-sidebar li.level1 { border-top: 1px solid #4d4d4d; }
+#block-bottom-c ul.line > li { border-top: 1px solid #2f2e2e; }
+#block-bottom-c ul.line > li:first-child { border-top: none; }
+#block-bottom-c .menu-sidebar a { color: #585858; }
+#block-bottom-c .menu-sidebar a:hover { color: #585858; }
+#block-bottom-c ul.line > li > a { color: #848484; }
+#block-bottom-c ul.line > li > a:hover { color: #585858; transition: all 0.3s ease-in-out 0s;}
+#block-bottom-c a { color: #848484; }
+#block-bottom-c a:hover { color: #585858; }
+
+body#page { background: #fff; }
+
+#block-footer {
+	padding: 15px 0;
+	background: #1d1e1f 35px;
+}
+
+/* Header */
+#toolbar {
+	line-height: 26px;
+	font-size: 12px;
+}
+
+#header { min-height: 35px; }
+
+/* Block Separators */
+#top-a:after,
+#top-b:after,
+#innertop:after {
+	content: "";
+	display: block;
+	margin: 0 15px;
+	height: 1px;
+}
+
+#bottom-a:before,
+#innerbottom:before {
+	content: "";
+	display: block;
+	margin: 0 15px;
+	height: 1px;
+}
+
+/* Remove Block Separators if System Output is disabled */
+#header + #bottom-a:before,
+#top-a + #bottom-a:before,
+#top-b + #bottom-a:before { display: none; }
+
+/* Footer + Header */
+#toolbar { color: #888; }
+#toolbar a { color: #888; }
+#headerbar,
+#footer { color: #888; }
+#headerbar a,
+#footer a { color: #888; }
+#toolbar a:hover { color: #444; }
+#headerbar a:hover { color: #686868; }
+
+#headerbar .module {
+    float: right;  
+    margin-right: 0;   
+    max-width: 600px;
+    color: #fff;
+}
+
+/* Footer */
+
+#footer a {font-size: 12px; line-height: 18px;}
+
+#footer a:hover { color: #686868; }
+
+#totop-scroller {
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 1;
+	width: 20px;
+	height: 20px;
+	background: url(../images/totop_scroller.png) 50% 50% no-repeat;
+	text-decoration: none;
+}

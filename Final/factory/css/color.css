@@ -1,0 +1,33 @@
+
+.factory-color, .factory-colorhover:hover,.factory-megamenu li h4,.factory-megalist li:hover a,.factory-dropdown-menu > li:hover > a,.navbar-nav > li:hover > a,.navbar-nav > li.active > a,
+.widget_categories ul li a:hover,.factory-blog-grid ul li:hover .factory-readmore,/**/.star-rating:before,.star-rating-box:before,.star-rating > .star-rating-box,
+.factory-breadcrumb ul .active,.factory-error-wrap h2 i,.widget_archive ul li:hover a,.widget_archive ul li:hover:before,.factory-tags a:hover,.factory-blog-social ul li:hover a,
+.factory-bloglarge .factory-post-options li:hover a,.factory-bloglarge .factory-post-options li:hover i,.page-numbers .active .page-numbers.current:before,
+.factory-bloglarge ul li:hover .factory-readmore-btn,.factory-contactus-info ul li i,.nav-tabs > li.active > a,.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus,.factory-shop-option li a:hover,.team-detail-text > .team-detail-social > li a:hover,.factory-twitter-slider time a:hover i,
+.factory-social-options > li a:hover,.factory-prenxt-post ul li:hover figure .factory-post-arrow i {
+    color: #ffcd00;
+}
+.factory-bgcolor, .factory-bgcolorhover:hover,.factory-logo:before,.factory-copyright-text:before,.factory-fancy-title span:before,.factory-blog-hover:before,.factory-blog-grid figure figcaption,
+.factory-blog-grid ul li:hover .factory-readmore:before,.factory-blog-grid ul li:hover .factory-readmore:after,.factory-readmore:hover:before,.factory-readmore:hover:after,.factory-team-grid-text:before,
+.factory-team-grid-text:after,.factory-team-grid-icons:before,.factory-team-grid-icons:after,.factory-project-caption:before,.slick-arrow:before,/**/.factory-classic-btn,.skillst .count-bar,
+.factory-shop-grid ul li:hover figure figcaption:before,.factory-add-cart h4 a i,.page-numbers li:hover a,.page-numbers li:hover .page-numbers.current,.factory-simple-btn,.factory-widget-heading h2:before,
+.widget_tag_cloud a:hover,.factory-contact-form form input[type="submit"]:hover,.factory-fancy-btn:hover,.page-numbers li .page-numbers.current,.factory-bloglarge ul li:hover .factory-readmore-btn:before,
+.factory-bloglarge ul li:hover .factory-readmore-btn:after,.factory-shop-detail-text > a:before,.factory-pricetitle,.price-plan-btn,.comment-respond form p input[type="submit"]:hover,
+.portfolio-medium ul li:hover .factory-plan-btn,.add-to-cart i,.factory-add-cart i {
+    background-color: #ffcd00;
+}
+.factory-bordercolor, .factory-bordercolorhover:hover,.factory-main-header,/**/.widget_tag_cloud a:hover,.factory-shop-detail figure figcaption ul > li.active a img,
+.nav-tabs > li.active > a,.nav-tabs > li.active > a:hover,.nav-tabs > li.active > a:focus,.factory-shop-detail figure figcaption ul > li:hover a img {
+    border-color: #ffcd00;
+}
+.slick-arrow:after,/**/.factory-add-cart h4:before,.page-numbers li:hover .page-numbers.current:before,.page-numbers li:hover a:before,.factory-shop-summery > a:after,
+.factory-add-cart:after,.factory-fancy-btn:hover:after {
+	border-bottom-color: #ffcd00;
+}
+.factory-fancy-btn:hover:before {
+	border-top-color: #ffcd00;
+}
+.bar-container .bar {
+	background-color: #ffcd00 !important;
+}

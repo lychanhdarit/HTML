@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sample Levels</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.dhtheme.com/medica/index.php/sample-levels/2-uncategorised</link>
+		<lastBuildDate>Mon, 16 May 2016 04:11:06 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.dhtheme.com/medica/index.php/sample-levels/2-uncategorised?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Pricing Tables</title>
+			<link>http://www.dhtheme.com/medica/index.php/features/pricing-tables</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/features/pricing-tables</guid>
+			<description><![CDATA[<div class="feed-description"><div class="box-note">These are 2, 3 and 4 column Pricing Table examples</div>
+
+<div class="section group">
+<div class="col span_1_of_2" style="text-align: center;">
+  <div class="ptable">
+    <div>
+      <h2>Rehabilitation</h2>
+      <div class="price">$299</div>
+        <p>Flexibility and stretching</p>
+        <p>Strengthening exercises</p>
+        <p>Spine stabilization</p>
+        <p>Biofeedback</p>     
+     </div>
+<p> <a class="large mybutton highlight"><i class="icon-medkit"></i>&nbsp; &nbsp;Schedule now</a></p>
+   </div>
+  </div>
+<div class="col span_1_of_2" style="text-align: center;">
+  <div class="ptable">
+   <div>
+      <h2>Maternity Package</h2>
+      <div class="price">$599</div>
+        <p>10 antenatal consultations</p>
+        <p>Pediatrician for 1st exam</p>
+        <p>Obstetrician’s ward review</p>
+        <p>Ward drugs and disposables</p>    
+    </div>
+<p> <a class="large mybutton highlight"><i class="icon-medkit"></i>&nbsp; &nbsp;Schedule now</a></p>
+  </div>
+  </div>
+</div>
+
+<div class="section group">
+<div class="col span_1_of_3" style="text-align: center;">
+  <div class="ptable">
+    <div>
+      <h2>Rehabilitation</h2>
+      <div class="price">$299</div>
+        <p>Flexibility and stretching</p>
+        <p>Strengthening exercises</p>
+        <p>Spine stabilization</p>
+        <p>Biofeedback</p>     
+     </div>
+<p> <a class="large mybutton highlight"><i class="icon-medkit"></i>&nbsp; &nbsp;Schedule now</a></p>
+   </div>
+  </div>
+<div class="col span_1_of_3" style="text-align: center;">
+  <div class="ptable-bestseller">
+    <div>
+      <h2>Dental Package</h2>
+      <div class="price">$399</div>
+        <p>Laser tooth whitening</p>
+        <p>Dental veneers</p>
+        <p>Porcelain crowns</p>
+        <p>Dental implants</p>
+        <p>Dental Surgery</p>   
+    </div>
+<p> <a class="large mybutton highlight"><i class="icon-medkit"></i>&nbsp; &nbsp;Schedule now</a></p>
+  </div>
+  </div>
+<div class="col span_1_of_3" style="text-align: center;">
+  <div class="ptable">
+    <div>
+      <h2>Maternity Package</h2>
+      <div class="price">$599</div>
+        <p>10 antenatal consultations</p>
+        <p>Pediatrician for 1st exam</p>
+        <p>Obstetrician’s ward review</p>
+        <p>Ward drugs and disposables</p>    
+    </div>
+<p> <a class="large mybutton highlight"><i class="icon-medkit"></i>&nbsp; &nbsp;Schedule now</a>
+  </div>
+  </div>
+</div>
+
+<div class="section group">
+<div class="col span_1_of_4" style="text-align: center;">
+  <div class="ptable">
+    <div>
+      <h2>Rehabilitation</h2>
+      <div class="price">$299</div>
+        <p>Flexibility and stretching</p>
+        <p>Strengthening exercises</p>
+        <p>Spine stabilization</p>
+        <p>Biofeedback</p>     
+     </div>
+<p> <a class="large mybutton highlight"><i class="icon-medkit"></i>&nbsp; &nbsp;Schedule now</a></p>
+   </div>
+  </div>
+<div class="col span_1_of_4" style="text-align: center;">
+  <div class="ptable-bestseller">
+     <div>
+      <h2>Dental Package</h2>
+      <div class="price">$399</div>
+        <p>Laser tooth whitening</p>
+        <p>Dental veneers</p>
+        <p>Porcelain crowns</p>
+        <p>Dental implants</p>
+        <p>Dental Surgery</p>   
+    </div>
+<p> <a class="large mybutton highlight"><i class="icon-medkit"></i>&nbsp; &nbsp;Schedule now</a></p>
+  </div>
+  </div>
+<div class="col span_1_of_4" style="text-align: center;">
+  <div class="ptable">
+    <div>
+      <h2>Maternity Package</h2>
+      <div class="price">$599</div>
+        <p>10 antenatal consultations</p>
+        <p>Pediatrician for 1st exam</p>
+        <p>Obstetrician’s ward review</p>
+        <p>Ward drugs and disposables</p>    
+    </div>
+<p> <a class="large mybutton highlight"><i class="icon-medkit"></i>&nbsp; &nbsp;Schedule now</a></p>
+  </div>
+  </div>
+<div class="col span_1_of_4" style="text-align: center;">
+  <div class="ptable">
+    <div>
+      <h2>Ophthalmology</h2>
+      <div class="price">$899</div>
+        <p>PHACO(Excluding Lens)</p>
+        <p>DCR</p>
+        <p>Autographting</p>
+        <p>PTG + AT</p>     
+    </div>
+<p> <a class="large mybutton highlight"><i class="icon-medkit"></i>&nbsp; &nbsp;Schedule now</a></p>
+  </div>
+</div>
+</div></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Wed, 07 Aug 2013 12:12:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>Spotlight Examples</title>
+			<link>http://www.dhtheme.com/medica/index.php/features/spotlight</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/features/spotlight</guid>
+			<description><![CDATA[<div class="feed-description"><div><a data-spotlight="on" data-lightbox="transitionIn:elastic;transitionOut:elastic;" href="http://www.dhtheme.com/medica/images/Demo/gallery/1.jpg"> <img src="http://www.dhtheme.com/medica/images/Demo/gallery/1.jpg" alt="Spotlight Image" height="220" width="230" /> </a> <a data-spotlight="effect:bottom;" data-lightbox="transitionIn:elastic;transitionOut:elastic;" href="http://www.dhtheme.com/medica/images/Demo/gallery/2.jpg"> <img src="http://www.dhtheme.com/medica/images/Demo/gallery/2.jpg" alt="Spotlight Image" height="220" width="230" />
+<div class="overlay">Custom Overlay (Bottom)</div>
+</a> <a data-spotlight="effect:right;" data-lightbox="transitionIn:elastic;transitionOut:elastic;" href="http://www.dhtheme.com/medica/images/Demo/gallery/3.jpg"> <img src="http://www.dhtheme.com/medica/images/Demo/gallery/3.jpg" alt="Spotlight Image" height="220" width="230" />
+<div class="overlay">Custom Overlay (Right)</div>
+</a></div>
+<div><a data-spotlight="effect:fade;" data-lightbox="transitionIn:elastic;transitionOut:elastic;" href="http://www.dhtheme.com/medica/images/Demo/gallery/4.jpg"> <img src="http://www.dhtheme.com/medica/images/Demo/gallery/4-2.jpg" alt="Spotlight Image" height="220" width="230" />
+<div class="overlay remove-padding"><img src="http://www.dhtheme.com/medica/images/Demo/gallery/4.jpg" alt="Spotlight Image" height="220" width="230" /></div>
+</a> <a data-spotlight="effect:top;" data-lightbox="transitionIn:elastic;transitionOut:elastic;" href="http://www.dhtheme.com/medica/images/Demo/gallery/5.jpg"> <img src="http://www.dhtheme.com/medica/images/Demo/gallery/5.jpg" alt="Spotlight Image" height="220" width="230" />
+<div class="overlay">Custom Overlay (Top)</div>
+</a> <a data-spotlight="effect:left;" data-lightbox="transitionIn:elastic;transitionOut:elastic;" href="http://www.dhtheme.com/medica/images/Demo/gallery/6.jpg"> <img src="http://www.dhtheme.com/medica/images/Demo/gallery/6.jpg" alt="Spotlight Image" height="220" width="230" />
+<div class="overlay">Custom Overlay (Left)</div>
+</a></div></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Thu, 21 Feb 2013 12:14:59 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gallery</title>
+			<link>http://www.dhtheme.com/medica/index.php/features/gallery</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/features/gallery</guid>
+			<description><![CDATA[<div class="feed-description"><h3>This is an example of simple gallery with Widgetkit Spotlight effect and lightbox.</h3>
+<a data-spotlight="on" data-lightbox="group:mygroup" href="http://www.dhtheme.com/medica/images/Demo/gallery/1.jpg"><img src="http://www.dhtheme.com/medica/images/Demo/gallery/1.jpg" alt="" height="220" width="230" /></a>
+<a data-spotlight="on" data-lightbox="group:mygroup" href="http://www.dhtheme.com/medica/images/Demo/gallery/2.jpg"><img src="http://www.dhtheme.com/medica/images/Demo/gallery/2.jpg" alt="" height="220" width="230" /></a>
+<a data-spotlight="on" data-lightbox="group:mygroup" href="http://www.dhtheme.com/medica/images/Demo/gallery/3.jpg"><img src="http://www.dhtheme.com/medica/images/Demo/gallery/3.jpg" alt="" height="220" width="230" /></a>
+<a data-spotlight="on" data-lightbox="group:mygroup" href="http://www.dhtheme.com/medica/images/Demo/gallery/4.jpg"><img src="http://www.dhtheme.com/medica/images/Demo/gallery/4.jpg" alt="" height="220" width="230" /></a>
+<a data-spotlight="on" data-lightbox="group:mygroup" href="http://www.dhtheme.com/medica/images/Demo/gallery/5.jpg"><img src="http://www.dhtheme.com/medica/images/Demo/gallery/5.jpg" alt="" height="220" width="230" /></a>
+<a data-spotlight="on" data-lightbox="group:mygroup" href="http://www.dhtheme.com/medica/images/Demo/gallery/6.jpg"><img src="http://www.dhtheme.com/medica/images/Demo/gallery/6.jpg" alt="" height="220" width="230" /></a>
+<a data-spotlight="on" data-lightbox="group:mygroup" href="http://www.dhtheme.com/medica/images/Demo/gallery/7.jpg"><img src="http://www.dhtheme.com/medica/images/Demo/gallery/7.jpg" alt="" height="220" width="230" /></a>
+<a data-spotlight="on" data-lightbox="group:mygroup" href="http://www.dhtheme.com/medica/images/Demo/gallery/8.jpg"><img src="http://www.dhtheme.com/medica/images/Demo/gallery/8.jpg" alt="" height="220" width="230" /></a>
+<a data-spotlight="on" data-lightbox="group:mygroup" href="http://www.dhtheme.com/medica/images/Demo/gallery/9.jpg"><img src="http://www.dhtheme.com/medica/images/Demo/gallery/9.jpg" alt="" height="220" width="230" /></a></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Thu, 21 Feb 2013 12:00:11 +0000</pubDate>
+		</item>
+		<item>
+			<title>Widgetkit Slideshow</title>
+			<link>http://www.dhtheme.com/medica/index.php/features/sliders/widgetkit-slideshow</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/features/sliders/widgetkit-slideshow</guid>
+			<description><![CDATA[<div class="feed-description">Use the Widgetkit slideshow with various effects. Easy to use and responsive - you can use it in articles!</div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Thu, 21 Feb 2013 11:08:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>Revolution Slider</title>
+			<link>http://www.dhtheme.com/medica/index.php/features/sliders/revolution-slider</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/features/sliders/revolution-slider</guid>
+			<description><![CDATA[<div class="feed-description"><p>Using the Revoliution Slider you can create unique slideshows. Boost your creativity and give life to your slides.</p>
+<p>You can choose between:</p>
+<ul class="check">
+<li>Full-width slider (available in <code>top-a</code> & <code>bottom-a</code> module position)</li>
+<li>Fixed</li>
+<li>Responsive</li>
+</ul></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Thu, 21 Feb 2013 10:47:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Buttons</title>
+			<link>http://www.dhtheme.com/medica/index.php/features/buttons</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/features/buttons</guid>
+			<description><![CDATA[<div class="feed-description"><p>Medica template comes with 5 buttons styles. 3 of the buttons comes in 3 different sizes.</p>
+<p>Use the CSS classes <code>small button color</code>, <code>medium button color</code> or <code>large button color</code> to create nice buttons. For color use one of the 3 preseted color variations.</p>
+<h3>Small Buttons:</h3>
+<p><a class="small mybutton light">Light Button</a> <a class="small mybutton color">Color Button</a> <a class="small mybutton highlight">Highlight Button</a></p>
+<hr />
+<h3>Medium Buttons:</h3>
+<p><a class="medium mybutton light">Light Button</a> <a class="medium mybutton color">Color Button</a> <a class="medium mybutton highlight">Highlight Button</a></p>
+<hr />
+<h3>Large Buttons:</h3>
+<p><a class="large mybutton light">Light Button</a> <a class="large mybutton color">Color Button</a> <a class="large mybutton highlight">Highlight Button</a></p>
+<hr />
+<p>Use Font Awesome to create more Awesome buttons:</p>
+<p><a class="large mybutton light"><i class="icon-stethoscope"></i>&nbsp; &nbsp;Schedule an appointment</a> <a class="large mybutton color"><i class="icon-ambulance"></i>&nbsp; &nbsp;Emergency Details</a> <a class="large mybutton highlight"><i class="icon-medkit"></i>&nbsp; &nbsp;Interns List</a></p></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Tue, 19 Feb 2013 11:06:56 +0000</pubDate>
+		</item>
+		<item>
+			<title>Home</title>
+			<link>http://www.dhtheme.com/medica/</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/</guid>
+			<description><![CDATA[<div class="feed-description"><div class="section group">
+<div class="col span_1_of_3" style="text-align: center;">
+<p><a><i class=" icon-hospital icon-4x"></i></a></p>
+<h3 style="text-align: center;">Ultra Modern Hospital</h3>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+<p><a class="medium mybutton light">More</a></p></div>
+<div class="col span_1_of_3" style="text-align: center;">
+<p><a><i class=" icon-stethoscope icon-4x"></i></a></p>
+<h3 style="text-align: center;">Proven Specialists</h3>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+<p><a class="medium mybutton light">More</a></p></div>
+<div class="col span_1_of_3" style="text-align: center;">
+<p><a><i class=" icon-ambulance icon-4x"></i></a></p>
+<h3>Top ER Department</h3>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+<p><a class="medium mybutton color">More</a></p></div>
+</div></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Mon, 02 May 2011 08:49:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Features</title>
+			<link>http://www.dhtheme.com/medica/index.php/features</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/features</guid>
+			<description><![CDATA[<div class="feed-description"><p>This theme utilizes the latest features of the fast and slick Warp theme framework. It comes with a broad range of layout and <a href="http://www.dhtheme.com/medica/index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=103">module variations</a> as well as a neat <a href="http://www.dhtheme.com/medica/index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=104">typography</a> to style your content. Read on to learn more about this theme and its features:</p>
+<ul class="check">
+<li>Choose from 20 colors and 11 fonts</li>
+<li>7 module style variations combinable with 4 badges and all Font Awesome icons</li>
+<li>Flexible template and column widths</li>
+<li>All Warp framework features are available</li>
+<li>Full-width module position</li>
+<li>Revolution Slider</li>
+<li>Widgetkit</li>
+<li>Roksproket</li>
+<li>Pricing Tables</li>
+<li>and more!</li>
+</ul>
+<h2>Theme Layout</h2>
+<p>This theme comes with the default Warp6 module layout. The blue module positions allow to choose a module layout which defines the module alignment and proportions: <em>equal</em>, <em>double</em> or <em>stack</em>. You can easily add your own module layouts. The two available sidebars, highlighted in red, can be switched to the left or right side and their widths can easily be set in the theme administration. For modules in the blue and red positions you can choose different module styles. Take a look at the <a href="http://www.dhtheme.com/medica/index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=103">module variations</a> page to get an overview.</p>
+<div class="grid-block grid-gutter">
+<div class="grid-box width50">
+<figure class="remove-margin"><img class="size-auto" src="http://www.dhtheme.com/medica/images/Demo/features_module_positions.png" alt="Module Positions" title="Module Positions" height="414" width="300" /> <figcaption>Module Positions</figcaption></figure>
+</div>
+<div class="grid-box width50">
+<figure class="remove-margin-t"><img class="size-auto" src="http://www.dhtheme.com/medica/images/Demo/features_module_layouts.png" alt="Module Layouts" title="Module Layouts" height="202" width="300" /> <figcaption>Module Layouts</figcaption></figure>
+<figure class="remove-margin-b"><img class="size-auto" src="http://www.dhtheme.com/medica/images/Demo/features_column_layouts.png" alt="Colum Layouts" title="Column Layouts" height="172" width="300" /> <figcaption>Column Layouts</figcaption></figure>
+</div>
+</div></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Mon, 02 May 2011 08:48:41 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dummy Content</title>
+			<link>http://www.dhtheme.com/medica/index.php/accordion-b/level-21</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/accordion-b/level-21</guid>
+			<description><![CDATA[<div class="feed-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Mon, 02 May 2011 08:48:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>Typography</title>
+			<link>http://www.dhtheme.com/medica/index.php/features/typography</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/features/typography</guid>
+			<description><![CDATA[<div class="feed-description"><p>You can create some beautiful content by using some simple HTML elements. The Warp theme framework offers some neat styles for all HTML elements and a great set of CSS classes to style your content. Basic HTML is very easy to learn and this small guide shows you how to use all styles provided by the Warp framework.</p>
+<h2>Basic HTML Elements</h2>
+<p>Here is a short demonstration of text-level semanticts. The &lt;p&gt; element creates a new paragraph. It will have some space before and after itself. To turn your text into hypertext just use the <a href="http://www.dhtheme.com/medica/#">&lt;a&gt; element</a>.</p>
+<h3>Text-Level Semantics</h3>
+<p>You can emphasize text using the <em>&lt;em&gt; element</em> or to imply any extra importance the <strong>&lt;strong&gt; element</strong>. Highlight text with no semantic meaning using the <mark>&lt;mark&gt; element</mark>. Markup document changes like inserted or deleted text with the <del>&lt;del&gt; element</del> or <ins>&lt;ins&gt; element</ins>. To define an abbreviation use the <abbr title="Abbreviation Element">&lt;abbr&gt; element</abbr> and to define a definition term use the <dfn title="Defines a definition term">&lt;dfn&gt; element</dfn>.</p>
+<h3>Short List with Links</h3>
+<ul>
+<li><a href="http://www.graphicriver.net" target="_blank">GraphicRiver</a> - Design Templates, Photoshop Brushes, and Stock Vectors</li>
+<li><a href="http://www.themeforest.net/warp" target="_blank">ThemeForest</a> - Premium WordPress Themes, Web Templates, Mobile Themes</li>
+<li><a href="http://www.photodune.net/zoo" target="_blank">PhotoDune</a> - High Quality Royalty-Free Stock Photography From $1 - Stock Photo</li>
+</ul>
+<h3>Quotations and Code</h3>
+<p>Inline quotations can be defined by using the <q>< blockquote > element</q>.</p>
+<blockquote>
+<span style="color: #383838;">Put your quotations here or highlight your text!</span></blockquote>
+<p>To define a short inline computer code use the <code>&lt;code&gt; element</code>. For a larger code snippet use the &lt;pre&gt; element which defines preformatted text. It creates a new text block which preserves both spaces and line breaks.</p>
+<pre>pre {
+    margin: 15px 0;
+    padding: 10px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 12px;
+    line-height: 18px;
+    white-space: pre-wrap;
+}
+</pre>
+<p><small>Use the &lt;small&gt; element for side comments and small print.</small></p>
+<hr />
+<h2>Useful CSS Classes</h2>
+<p>Here is a short demonstration of all style related CSS classes provided by the Warp framework.</p>
+<h3>Highlight Content</h3>
+<p class="dropcap">Drop caps are the first letter of a paragraph which are displayed bigger than the rest of the text. You can create a drop cap using the CSS class <code>dropcap</code>. To emphasize text with some small boxes use <em class="box">&lt;em&gt; element</em> with the CSS class <code>box</code>.</p>
+<div class="box-content">This simple box is intended to group large parts of your content using the CSS class <code>box-content</code>.</div>
+<div class="box-note">This is a simple box to highlight some text using the CSS class <code>box-note</code>.</div>
+<div class="box-info">This is a simple box with useful information using the CSS class <code>box-info</code>.</div>
+<div class="box-warning">This is a simple box with important notes and warnings using the CSS class <code>box-warning</code>.</div>
+<div class="box-hint">This is a simple box with additional hints using the CSS class <code>box-hint</code>.</div>
+<div class="box-download">This is a simple box with download information using the CSS class <code>box-download</code>.</div>
+<p>Use the CSS class <code>dotted</code> to create a dotted horizontal rule.</p>
+<hr class="dotted" />
+<h3>Tables</h3>
+<p>Create a zebra stripped table using using the CSS class <code>zebra</code>.</p>
+<table class="zebra"><caption>Table caption</caption>
+<thead>
+<tr><th>Table Heading</th><th>Table Heading</th><th class="center">Table Heading</th></tr>
+</thead>
+<tfoot>
+<tr>
+<td>Table Footer</td>
+<td>Table Footer</td>
+<td class="center">Table Footer</td>
+</tr>
+</tfoot>
+<tbody>
+<tr class="odd">
+<td>Table Data</td>
+<td>Table Data</td>
+<td class="center">Data Centered</td>
+</tr>
+<tr>
+<td class="bold">Data Bold</td>
+<td>Table Data</td>
+<td class="center">Data Centered</td>
+</tr>
+<tr class="odd">
+<td>Table Data</td>
+<td>Table Data</td>
+<td class="center">Data Centered</td>
+</tr>
+</tbody>
+</table>
+<h3>Definition Lists</h3>
+<p>Create a nice looking definition list separated with a line by using the CSS class <code>separator</code>.</p>
+<dl class="separator"><dt>Definition List</dt><dd>A definition list is a list of terms and corresponding definitions. To create a definition list use the &lt;dl&gt; element in conjunction with &lt;dt&gt; to define the definition term and &lt;dd&gt; to define the definition description.</dd><dt>Definition Term</dt><dd>This is a definition description.</dd><dt>Definition Term</dt><dd>This is a definition description.</dd><dd>This is another definition description.</dd></dl>
+<h3>Forms</h3>
+<p>Create a clearly arranged form layout with fieldset boxes using the CSS class <code>box</code>.</p>
+<form action="#" class="box style"><fieldset><legend>Form legend</legend>
+<div><label for="f1">Text input:</label> <input value="input text" id="f1" type="text" /></div>
+<div><label for="f2">Radio input:</label> <input id="f2" type="radio" /></div>
+<div><label for="f3">Checkbox input:</label> <input id="f3" type="checkbox" /></div>
+<div><label for="f4">Select field:</label><select id="f4"><option>Option 01</option><option>Option 02</option></select></div>
+<div><label for="f5">Textarea:</label><br /><textarea rows="5" cols="30" id="f5">Textarea text</textarea></div>
+</fieldset><button>Button</button> <input value="Input Button" type="button" /></form></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Mon, 02 May 2011 08:47:45 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

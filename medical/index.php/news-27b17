@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Medical Blog</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.dhtheme.com"/>
+	<id>http://www.dhtheme.com/medica/index.php/news-2</id>
+	<updated>2016-05-16T03:46:52+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.dhtheme.com/medica/index.php/news-2?format=feed&amp;type=atom"/>
+	<entry>
+		<title>U.S. Best Hospitals: Orthopedics</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/news-2/88-best-orthopedics"/>
+		<published>2013-08-07T08:29:56+00:00</published>
+		<updated>2013-08-07T08:29:56+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/news-2/88-best-orthopedics</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img class=&quot;size-auto&quot; src=&quot;images/Demo/patients.jpg&quot; alt=&quot;patients&quot; width=&quot;705&quot; height=&quot;385&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img class=&quot;size-auto&quot; src=&quot;images/Demo/patients.jpg&quot; alt=&quot;patients&quot; width=&quot;705&quot; height=&quot;385&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="News" />
+	</entry>
+	<entry>
+		<title>U.S. News &amp; World Report</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/news-2/89-us-news-video"/>
+		<published>2013-08-07T08:35:46+00:00</published>
+		<updated>2013-08-07T08:35:46+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/news-2/89-us-news-video</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;video width=&quot;705&quot; height=&quot;385&quot;&gt; &lt;source type=&quot;video/youtube&quot; src=&quot;https://www.youtube.com/watch?v=qYR2ZJvleJI&quot; /&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;video width=&quot;705&quot; height=&quot;385&quot;&gt; &lt;source type=&quot;video/youtube&quot; src=&quot;https://www.youtube.com/watch?v=qYR2ZJvleJI&quot; /&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="News" />
+	</entry>
+	<entry>
+		<title>Internet Drugs</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/news-2/90-drugs"/>
+		<published>2013-08-07T08:38:55+00:00</published>
+		<updated>2013-08-07T08:38:55+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/news-2/90-drugs</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;[widgetkit id=2]&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;[widgetkit id=2]&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="News" />
+	</entry>
+</feed>

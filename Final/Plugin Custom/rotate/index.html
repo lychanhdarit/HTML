@@ -1,0 +1,38 @@
+<html>
+<head>
+	<style>
+       .image {
+   
+    -webkit-animation:spin 10s linear infinite;
+    -moz-animation:spin 10s linear infinite;
+    animation:spin 10s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+     
+
+        .box {
+          /*border-radius: 50%;*/
+          -webkit-transition: -webkit-transform 5s ease-in-out;
+                  transition:         transform 5s ease-in-out;
+        }
+        .box:hover {
+          -webkit-transform: rotate(360deg);
+                  transform: rotate(360deg);
+        }
+    </style>
+</head>
+<body style="background:url(b2.jpg)">
+	
+	<div style="width:340px;">
+		<div style="width:415px;height:415px" class="image"> 
+			<img src="b.png"/>
+		</div>
+		<div style="width:260px;height:260px;position:absolute;top: 86px; left: 85px;">
+			<img src="i.png"/>
+		</div>
+	</div>
+</body>
+</html>

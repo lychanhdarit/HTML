@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Medical Blog</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.dhtheme.com/medica/index.php/news-2</link>
+		<lastBuildDate>Mon, 16 May 2016 03:46:52 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.dhtheme.com/medica/index.php/news-2?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>U.S. Best Hospitals: Orthopedics</title>
+			<link>http://www.dhtheme.com/medica/index.php/news-2/88-best-orthopedics</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/news-2/88-best-orthopedics</guid>
+			<description><![CDATA[<div class="feed-description"><p><img class="size-auto" src="http://www.dhtheme.com/medica/images/Demo/patients.jpg" alt="patients" width="705" height="385" /></p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>News</category>
+			<pubDate>Wed, 07 Aug 2013 08:29:56 +0000</pubDate>
+		</item>
+		<item>
+			<title>U.S. News &amp; World Report</title>
+			<link>http://www.dhtheme.com/medica/index.php/news-2/89-us-news-video</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/news-2/89-us-news-video</guid>
+			<description><![CDATA[<div class="feed-description"><p><video width="705" height="385"> <source type="video/youtube" src="https://www.youtube.com/watch?v=qYR2ZJvleJI" /></video></p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>News</category>
+			<pubDate>Wed, 07 Aug 2013 08:35:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Internet Drugs</title>
+			<link>http://www.dhtheme.com/medica/index.php/news-2/90-drugs</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/news-2/90-drugs</guid>
+			<description><![CDATA[<div class="feed-description"><p>[widgetkit id=2]</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p></div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>News</category>
+			<pubDate>Wed, 07 Aug 2013 08:38:55 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

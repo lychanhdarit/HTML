@@ -1,0 +1,118 @@
+.hero {
+min-height:30em;
+background-color:#999;
+position:relative;
+background-position:center;
+background-repeat:no-repeat;
+color:#3575B9;
+text-shadow: 1px 1px 3px #fff;
+text-shadow: 1px 1px 3px rgba(255,255,255,.5);
+}
+img.hero_logo {
+display:inline-block;
+vertical-align:-17px;
+height:60px;
+}
+.hero h1 small {
+font-size:.6em;
+line-height:.6em;
+}
+.hero h1,
+.hero h2,
+.hero li,
+.hero a,
+.hero p {
+color:#3575B9;
+text-shadow: 1px 1px 3px #fff;
+text-shadow: 1px 1px 3px rgba(255,255,255,.5);
+}
+.hero h2 {
+font-size:2.1em;
+margin:0;
+}
+.hero p {
+margin-top:.5em;
+font-size:1.2em;
+line-height:1.6em;
+width:auto;
+}
+.hero li {
+font-size:1.2em;
+margin:0 0 .2em;
+}
+.hero ul {
+list-style:none;
+text-transform:lowercase;
+}
+.contact_bar.shadow_top {
+padding: 1em 0;
+z-index: 1;
+top: -3em;
+}
+.contact_bar.shadow_top span {
+font-size: 1.8em;
+-webkit-font-smoothing: antialiased;
+}
+.contact_bar.shadow_top a {
+margin-left:2em;
+}
+article.associates {
+padding-bottom:50px;
+}
+.features ul {
+margin-bottom:1em;
+}
+.features .svg_icon {
+width:66px;
+height:66px;
+margin:0 auto;
+}
+.features a {
+text-decoration:none;
+}
+.feature.feature_basic h5.feature_name {
+color:#3575B9;
+font-weight:600;
+}
+.headline p {
+width:34em;
+}
+.feature_list.no_tabs {
+background: #fff;
+}
+.hero.text-dark h1,
+.hero.text-dark h2,
+.hero.text-dark p,
+.hero.text-dark a,
+.hero.text-dark li {
+color:#4d4d4d;
+text-shadow: 1px 1px 3px #fff;
+text-shadow: 1px 1px 3px rgba(255,255,255,.2);
+}
+.hero.text-light h1,
+.hero.text-light h2,
+.hero.text-light p,
+.hero.text-light a,
+.hero.text-light li {
+color:#fff;
+text-shadow: 1px 1px 3px #000;
+text-shadow: 1px 1px 3px rgba(0,0,0,.5);
+}
+.hero a.btn_primary {
+text-shadow: none;
+color:#fff;
+}
+.post_features {
+margin-bottom: 7em;
+}
+article.associates .folded_image,
+.ie8 .hero {
+-ms-behavior: url(http://bluehost-cdn.com/media/shared/general/backgroundsize.min.htc);
+}
+article.associates .folded_image {
+background-size: cover;
+background-position: 50% 50%;
+}
+.product-logo {
+margin-bottom: 0;
+}

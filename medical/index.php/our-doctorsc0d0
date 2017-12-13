@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Our Doctors</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.dhtheme.com/medica/index.php/our-doctors</link>
+		<lastBuildDate>Mon, 16 May 2016 03:46:36 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.dhtheme.com/medica/index.php/our-doctors?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Dr. Lexy (Radiology)</title>
+			<link>http://www.dhtheme.com/medica/index.php/our-doctors/87-dr-lexy</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/our-doctors/87-dr-lexy</guid>
+			<description><![CDATA[<div class="feed-description"><h2>Dr. Samantha Lexy, PhD<img class="size-auto" style="margin-right: 10px; float: left;" title="Our Doctors" src="http://www.dhtheme.com/medica/images/Demo/doctors/doc4.png" alt="Dr. Lexy" width="160" height="160" /></h2>
+<p><small>Radiology Department Chief</small></p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+</div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Doctors</category>
+			<pubDate>Wed, 07 Aug 2013 08:19:03 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dr. Bell (Urology)</title>
+			<link>http://www.dhtheme.com/medica/index.php/our-doctors/86-dr-bell</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/our-doctors/86-dr-bell</guid>
+			<description><![CDATA[<div class="feed-description"><h2>Dr. Samantha Bell, PhD<img class="size-auto" style="margin-right: 10px; float: left;" title="Our Doctors" src="http://www.dhtheme.com/medica/images/Demo/doctors/doc6.png" alt="Dr. Bell" width="160" height="160" /></h2>
+<p><small>Urology Department Chief</small></p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+</div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Doctors</category>
+			<pubDate>Wed, 07 Aug 2013 07:49:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dr. Russell (Pediatrics)</title>
+			<link>http://www.dhtheme.com/medica/index.php/our-doctors/85-dr-russell</link>
+			<guid isPermaLink="true">http://www.dhtheme.com/medica/index.php/our-doctors/85-dr-russell</guid>
+			<description><![CDATA[<div class="feed-description"><h2>Dr. Sebastien Russell, PhD<img class="size-auto" style="margin-right: 10px; float: left;" title="Our Doctors" src="http://www.dhtheme.com/medica/images/Demo/doctors/doc1.png" alt="Dr. Russell" width="160" height="160" /></h2>
+<p><small>Pediatrics Department Chief</small></p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+</div>]]></description>
+			<author>hpnotiq@abv.bg (Super User)</author>
+			<category>Doctors</category>
+			<pubDate>Thu, 01 Aug 2013 11:54:08 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

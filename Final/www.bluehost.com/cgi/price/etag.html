@@ -1,0 +1,118 @@
+// Add a getElementsByClassName function if the browser doesn't have one
+// Limitation: only works with one class name
+// Copyright: Eike Send http://eike.se/nd
+// License: MIT License
+if (!document.getElementsByClassName) {
+    document.getElementsByClassName = function(search) {
+        var d = document, elements, pattern, i, results = [];
+        if (d.querySelectorAll) { // IE8
+            return d.querySelectorAll("." + search);
+        }
+        if (d.evaluate) { // IE6, IE7
+            pattern = ".//*[contains(concat(' ', @class, ' '), ' " + search + " ')]";
+            elements = d.evaluate(pattern, d, null, 0, null);
+            while ((i = elements.iterateNext())) {
+                results.push(i);
+            }
+        } else {
+            elements = d.getElementsByTagName("*");
+            pattern = new RegExp("(^|\\s)" + search + "(\\s|$)");
+            for (i = 0; i < elements.length; i++) {
+                if ( pattern.test(elements[i].className) ) {
+                    results.push(elements[i]);
+                }
+            }
+        }
+        return results;
+    }
+}
+
+var price_data = {"bounce":null,"eu_country":0,"strike_price":"7.99","price_only":null,"referrer":"http://www.top10bestwebsitehosting.com/visit?product_id=150&url=http%3A%2F%2Fwww.bluehost.com%2Ftrack%2Flol%2Fsid%3D%5Bvar%5D_%5Btracking-subid%5D&rank=1&cms_site=1&d=www.top10bestwebsitehosting.com&comp_id=54f893fc636d7339890a0300","adisc":"This is a courtesy notice that you have visited one of our paid endorsers while researching your purchase.","aff":"lol","whole":"2","update_country":"USD","subtype":null,"campaign":"sid=sv_4_U5ui4UQPxl","strike_currency":"$","currency_symbol":"$","currency_subtype":"","strike_gt":"*","multi_digit":0,"separator":".","term_length":60,"price":"2.65","decimal":"65"};
+
+var viq_aff = price_data.viq_aff_track;
+if (viq_aff instanceof Object) {
+    dataLayer.push(viq_aff);
+    dataLayer.push({
+        'eventCategory': 'affiliate link click',
+        'eventAction'  : viq_aff.aLinkAffiliateType,
+        'eventLabel'   : viq_aff.aLinkAffiliate,
+        'event'        : 'GAEvent'
+    });
+}
+var r_form = document.getElementsByName("r");
+for (var i = 0; i < r_form.length; i++) {
+    r_form[i].value = (price_data.aff || "house") + "^" + (price_data.campaign || "default") + "^" + (price_data.referrer || "-");
+}
+
+
+if (price_data.bounce) {
+    window.self.location.href = price_data.bounce;
+}
+if (price_data && price_data.error) {
+    var elem = document.getElementsByClassName('js_p_error');
+    for(var i = 0; i < elem.length; i++) {
+        p_error = elem[i];
+        try {
+            p_error.innerHTML  = 'Click to see price';
+            p_error.style.display = '';
+            p_ins.className += ' click_price';
+        } catch(e) {}
+    }
+    var elem = document.getElementsByClassName('js_p_del');
+    for(var i = 0; i < elem.length; i++) {
+        p_del = elem[i];
+        try {p_del.style.display  = 'none';} catch(e) {}
+    }
+    var elem = document.getElementsByClassName('js_p_regular');
+    for(var i = 0; i < elem.length; i++) {
+        p_regular = elem[i];
+        try {p_regular.style.display  = 'none';} catch(e) {}
+    }
+}
+else {
+    var elem = document.getElementsByClassName('js_p_error');
+    for(var i = 0; i < elem.length; i++) {
+        p_error = elem[i];
+        try {p_error.style.display = 'none';} catch(e) {}
+    }
+    var elem = document.getElementsByClassName('js_p_del');
+    for(var i = 0; i < elem.length; i++) {
+        p_del = elem[i];
+        try {p_del.style.display  = '';} catch(e) {}
+    }
+}
+for (key in price_data) {
+    if (!price_data.hasOwnProperty(key)) {continue;}
+    var elem = document.getElementsByClassName('js_p_'+key);
+    for(var i = 0; i < elem.length; i++) {
+        var dest_el = elem[i];
+        if (!dest_el) {continue;}
+        dest_el.innerHTML = price_data[key];
+    }
+}
+try{
+    var elem = document.getElementsByClassName('js_ps');
+    for(var i = 0; i < elem.length; i++) {
+        var p_ps = elem[i];
+        p_ps.style.display = 'block';
+    }
+} catch(e){}
+if (price_data.adisc) {
+    try {
+        var elem = document.getElementsByClassName('js_adisc');
+        for(var i = 0; i < elem.length; i++) {
+            var adisc = elem[i];
+            adisc.innerHTML = price_data.adisc;
+        }
+    } catch(e){}
+}
+if (price_data.sale) {
+    try {
+        var elem = document.getElementsByClassName('js_sale_terms');
+        for(var i = 0; i < elem.length; i++) {
+            var sales_terms = elem[i];
+            sales_terms.innerHTML = price_data.sale;
+        }
+    } catch(e){}
+}
+

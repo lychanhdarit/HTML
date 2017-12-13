@@ -1,0 +1,391 @@
+
+.slider .controls {
+display:none;
+}
+.slider.slider-enabled .controls {
+display:block;
+}
+.skinny-bar em {
+font-style:normal;
+}
+
+@media screen and (max-width: 767px) {
+
+    @viewport {
+        width: 320px;
+    }
+
+    #container {
+        min-width: initial;
+    }
+
+    #header .wrapper {
+        width: initial;
+    }
+    #header .tab {
+        height: 40px;
+        border: none;
+        border-bottom: 1px solid #FFF;
+        width: 100%;
+    }
+    #header .tab a {
+        line-height: 2.5;
+        width: 100%;
+        min-width: 0;
+    }
+    #header .tab.active .subnav,
+    #header .tab:hover .subnav {
+        display: none;
+    }
+    .main_nav ul.clear {
+        display: none;
+        width: 155px;
+        height: 200px !important;
+        background: #3575B9;
+        position: absolute;
+        top: 64px;
+        right: 0;
+        border-top: 1px solid white;
+    }
+    .main_nav ul.clear .live_chat_tab,
+    .main_nav ul.clear .phone_tab {
+        display: none;
+    }
+    .main_nav.active ul.clear {
+        display: initial;
+    }
+
+    .cover_wrap {
+        width: initial;
+    }
+    .btn_primary.big {
+        padding: 0;
+    }
+    .hero.home_hero .below-home {
+        width: initial !important;
+    }
+    .hero.slide.home_hero {
+        display: none;
+    }
+    .hero.slide.home_hero.main {
+        display: block;
+    }
+
+    #cloud-pane .cloud-pane-container {
+        padding:20px;
+        background:none;
+    }    
+    #cloud-pane h2,
+    #cloud-pane .introduction,
+    #cloud-pane .more-cloud {
+        text-align:center;
+    }
+    #cloud-pane {
+    border-bottom:40px solid #eaeaea;
+    }
+
+    .pro_services {
+        display: none;
+    }
+
+    .double_pane .content_half {
+        width: 100%;
+
+    }
+    .double_pane .content_half p {
+        width: initial !important;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .double_pane p {
+        padding: 45px;
+    }
+    #technology_by .content_half h2 b {
+        display: block;
+    }
+    .double_pane h2 {
+        text-align: center !important;
+    }
+
+    section.disclaimer {
+        width: initial;
+    }
+    #sale_terms {
+        width: initial;
+    }
+    #technology_by .cover_wrap {
+        margin: 0;
+    }
+    #technology_by.double_pane {
+        background: none !important;
+        background-image: url(../../info/products/home_technology_bar_mobile.jpg) !important;
+        background-position: top right;
+        background-size: 320px 320px !important;
+        background-repeat: no-repeat;
+
+    }
+    .double_pane .content_half {
+        padding-right: 0 !important;
+    }
+    .double_pane .video_half {
+        display: none;
+    }
+
+    nav.main_nav::after {
+        content: 'menu';
+        color: #FFF;
+        float: right;
+        padding-left: 35px;
+        background-image: url('../icons/hamburger_menu.png');
+        background-size: 20px;
+        background-repeat: no-repeat;
+        background-position: right;
+        background-position-x: 100px;
+        font-size: 20px;
+        font-weight: bold;
+        height: 64px;
+        width: 100px;
+        line-height: 3.2;
+        cursor: pointer;
+    }
+    nav.main_nav.active::after {
+        background: url('../icons/hamburger_menu.png') 100px center no-repeat, linear-gradient(to right, #2568C7 0%, #0D53B4 75%);
+        background-size: 20px, cover;
+    }
+
+    #container {
+        padding-bottom:0;
+    }
+    .disclaimer {
+        display:none;
+    }
+
+    #footer {
+        min-height:initial;
+        margin-top:0;
+    }
+    nav.footer_nav {
+        width: initial;
+    }
+    .footer_nav ul,
+    .footer_nav ul:first-child {
+        border:none;
+        border-bottom:1px solid #0D53B4;
+        min-height:initial;
+        float:none;
+        padding:0;
+        line-height:initial;
+    }
+    .footer_nav li {
+        display:none;
+        min-width:initial;
+    }
+    .footer_nav li.title {
+        display:block;
+        padding:.5em 2em;
+    }
+    .footer_nav .products_list,
+    .footer_nav .programs_list,
+    .footer_nav .support_list,
+    .footer_nav .company_list {
+        width:auto;
+    }
+    .footer_nav .company_list li:nth-child(2n+3) {
+        display:block;
+        border-top:1px solid #0D53B4;
+        padding:.9em 1em;
+    }
+    .footer_nav .company_list li:nth-child(3) {
+        width:45%;
+        padding-left:2.5em;
+        text-align:left;
+    }
+    .footer_nav .company_list li:nth-child(5) {
+        width:30%;
+        text-align:center;
+    }
+    .footer_nav .company_list li:nth-child(7) {
+        width:25%;
+        padding-right:2.5em;
+        text-align:right;
+    }
+    .footer_nav h3 {
+        margin:0;
+    }
+    #footer .social_media {
+        border-top:none;
+        border-bottom:1px solid #0D53B4;
+        height:initial;
+    }
+    #footer .social_media .wrapper {
+        text-align:center;
+        width:initial;
+        padding:0;
+    }
+    #footer .social_icon {
+        width:32px;
+        height:32px;
+        float:none;
+        display:inline-block;
+        margin:.6em .2em;
+        padding:0;
+    }
+    #footer .social_icon .svg_icon {
+        width:32px;
+        height:32px;
+    }
+    .copyright {
+        display:block;
+        text-align:initial;
+        position:initial;
+        margin:1.5em 3em;
+        float:left;
+    }
+    #promotion {
+        margin:.5em 0 0;
+        width:100%;
+    }
+
+    .visible_flying_footer {
+        display:none!important;
+    }
+
+    .servers {
+        display:none;
+    }
+
+    .skinny-bar {
+        height:auto;
+        line-height:inherit;
+        padding:2em;
+    }
+    .skinny-bar-large-text {
+        line-height:.8em;
+    }
+    .skinny-bar em {
+        display:block;
+        height:1.2em;
+        font-size:1.4em;
+        font-weight:bold;
+        line-height:1.4em;
+        text-transform:uppercase;
+    }
+    .skinny-bar .btn_secondary {
+        margin:1.6em 0 0;
+    }
+
+    .adisc {
+        padding:0 2em;
+    }
+
+    .features {
+        width:70%;
+        margin:0 auto !important;
+    }
+    .features li {
+        min-height:initial;
+        width:100%;
+        margin:2em auto;
+    }
+    .features h4 {
+        margin:.4em 0 .7em;
+    }
+    .features p {
+        min-height:initial;
+        margin-bottom:1.4em;
+    }
+
+    .lightbox_container .title {
+        text-overflow:ellipsis;
+        overflow:hidden;
+        //white-space:nowrap;
+        // TODO
+    }
+
+    .slider {
+        width: 100%;
+    }
+    .cover_wrap {
+        width: 100%;
+    }
+    .hero.home_hero {
+        background-image: block;
+    }
+    .hero.home_hero {
+        background-image: none !important;
+    }
+    .hero.home_hero h1, .hero.home_hero .price, .hero.home_hero b, .hero.home_hero .heading {
+        margin: 0 !important;
+    }
+    .hero.home_hero .cover_wrap {
+        padding: 30px 0px !important;
+        font-size: .7em;
+    }
+    .hero.home_hero .cover_wrap h1,
+    .hero.home_hero .cover_wrap h2 {
+        text-align:center;
+    }
+    .hero.home_hero .cover_wrap li .mini-col-left {
+        font-style: italic;
+    }
+    .cover_wrap {
+       text-align:center;
+    }
+    .hero.home_hero  .cover_wrap ul {
+        text-align:left !important;
+    }
+
+    .hero.home_hero .cover_wrap li .mini-col-left,
+    .hero.home_hero .cover_wrap li b,
+    .hero.home_hero .cover_wrap .below-home {
+        font-size:1.5em;
+        padding: 10px 5px;
+    }
+    .btn_primary.big {
+        font-size: 2em;
+        padding:10px 60px;
+        display:block-inline;
+    }
+    .starting-price {
+        padding-top:30px;
+    }
+
+    #content .slider .slide.active {
+        position:initial !important;
+    }
+    .hero.home_hero {
+        height:initial !important;
+    }
+    .slider {
+        height:initial !important;
+    }
+
+    .lightbox_container {
+        position:fixed !important;
+        left:0 !important;
+        top:0 !important;
+        right:0;
+        bottom:0;
+    }
+    .lightbox_container div.lightbox_padding {
+        width:100% !important;
+        height:initial !important;
+        position:absolute;
+        top:50px;
+        right:0;
+        bottom:0;
+        left:0;
+    }
+    .below-home {
+        text-align: center !important;
+    }
+}
+
+@media screen and (max-width:358px) {
+    .hero.home_hero .cover_wrap li .mini-col-left,
+    .hero.home_hero .cover_wrap li b,
+    .hero.home_hero .cover_wrap .below-home {
+        font-size:1.3em;
+        padding: 10px 5px;
+    }
+}

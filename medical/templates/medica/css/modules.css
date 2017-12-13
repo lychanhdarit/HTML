@@ -1,0 +1,185 @@
+/* Copyright (C) YOOtheme GmbH, http://www.gnu.org/licenses/gpl.html GNU/GPL */
+
+@import url(../warp/css/modules.css);
+
+
+/* Module Badges
+----------------------------------------------------------------------------------------------------*/
+
+.module .badge {
+        margin-top:-12px;
+        margin-right:-12px;
+	width: 50px;
+	height: 50px;
+        background: url(../images/module_badges.png) 0 0 no-repeat;
+    transition: all 0.3s ease-in-out 0s;
+   -webkit-transition: all 0.3s ease-in-out 0s;
+   -moz-transition: all 0.3s ease-in-out 0s;
+   -o-transition: all 0.3s ease-in-out 0s;
+   -ms-transition: all 0.3s ease-in-out 0s;
+}
+
+.module .badge:hover {
+   -webkit-transform: rotate(360deg);
+   -moz-transform: rotate(360deg);
+   -o-transform: rotate(360deg);
+   -ms-transform: rotate(360deg);
+   transform: rotate(360deg);
+    transition: all 0.3s ease-in-out 0s;
+   -webkit-transition: all 0.3s ease-in-out 0s;
+   -moz-transition: all 0.3s ease-in-out 0s;
+   -o-transition: all 0.3s ease-in-out 0s;
+   -ms-transition: all 0.3s ease-in-out 0s;
+}
+ 
+.module .badge-more { background-position: 0 0; }
+.module .badge-top { background-position: 0 -50px; }
+.module .badge-call { background-position: 0 -100px; }
+.module .badge-new { background-position: 0 -150px; }
+
+
+/* Module Icons
+----------------------------------------------------------------------------------------------------*/
+
+
+/* Module Type: Box
+----------------------------------------------------------------------------------------------------*/
+
+.mod-box {
+	padding: 15px;
+	border: 1px solid #ddd;
+        border-radius: 8px;
+        background: #fff;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+.mod-box:hover {
+        background: #f5f5f5;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(221, 85, 95, 1) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(221, 85, 95, 1) inset;
+        box-shadow: 0px -4px 0px 0px rgba(221, 85, 95, 1) inset;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+.module .module-title .icon {
+        padding-top: 3px;
+        font-size: 20px;
+        line-height: 22px;
+}
+
+.mod-box .badge { top: -5px; right: -8px; }
+
+/* Module Type: Full
+----------------------------------------------------------------------------------------------------*/
+.mod-full { margin:0; }
+
+/* Module Type: Header
+----------------------------------------------------------------------------------------------------*/
+.mod-header {
+        margin:5px;
+}
+
+.mod-header .module-title {
+        text-transform:uppercase;
+        line-height: 40px;
+        border-bottom: 2px solid #BBBBBB; 
+}
+
+.mod-header .module-title:after {
+    background-color: #FF0000;
+    content: "";
+    display: block;
+    height: 2px;
+    position: absolute;
+    width: 120px;
+}
+/* Module Type: Dark
+----------------------------------------------------------------------------------------------------*/
+
+.mod-dark {
+	padding: 15px;
+	border: 1px solid #1d3a48;
+        border-radius: 8px;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        color: #ffffff;
+	background: #24485a;
+}
+
+.module .module-title .icon {
+        padding-top: 3px;
+        font-size: 22px;
+        line-height: 22px;
+}
+
+.mod-dark .badge { top: -5px; right: -8px; }
+
+/* Module Type: Highlight
+----------------------------------------------------------------------------------------------------*/
+
+.mod-highlight {
+	padding: 15px;
+	border: 1px solid #b1444c;
+        border-radius: 8px;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        color: #ffffff;
+	background: #dd555f;
+}
+
+.module .module-title .icon {
+        padding-top: 3px;
+        font-size: 22px;
+        line-height: 22px;
+}
+
+.mod-highlight .badge { top: -5px; right: -8px; }
+
+
+/* Module Type: Color
+----------------------------------------------------------------------------------------------------*/
+
+.mod-color {
+	padding: 15px;
+	border: 1px solid #335a6c;
+        border-radius: 8px;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        color: #ffffff;
+	background: #407087;
+}
+
+.module .module-title .icon {
+        padding-top: 3px;
+        font-size: 22px;
+        line-height: 22px;
+}
+
+.mod-color .module-title {
+        margin-top: -25px;
+        line-height: 22px;
+        text-align: center;
+        color: #fff;
+        background-color:#24485a;
+        padding: 5px;
+        border-bottom: none;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+}
+
+.mod-color .badge { top: -5px; right: -8px; }

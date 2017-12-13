@@ -1,0 +1,128 @@
+.login {
+text-align:center;
+margin-bottom:4em;
+}
+.extra_nav {
+list-style:none;
+padding:0;
+text-transform:lowercase;
+margin:2em;
+}
+.extra_nav li {
+display:inline-block;
+border-left:1px solid #666;
+padding:0 .7em;
+}
+.extra_nav li:first-child {
+border:0;
+}
+.login-ads {
+position:relative;
+height:180px;
+overflow:hidden;
+background:#efefef;
+clear:both;
+width:960px;
+margin:0 auto 3em;
+background-clip:padding-box;
+-webkit-border-radius:0 0 5px 5px;
+border-radius:0 0 5px 5px;
+}
+.login-ads .controls {
+width:100%;
+}
+.login-ads .controls button {
+position:absolute;
+z-index:10;
+}
+.is-form-type-checkbox,
+.is-form-type-radio {
+cursor:pointer;
+}
+.product-upsell {
+position:relative;
+display:block;
+overflow:auto;
+height:180px;
+background-size: cover;
+cursor:pointer;
+padding:1em 2em 2em 30em;
+}
+.product-upsell h3 {
+display:none;
+}
+.success-message img,
+.product-logo {
+max-width:350px;
+height:auto;
+max-height:35px;
+display:block;
+}
+.lte_ie10 .product-logo {
+height:35px;
+}
+.product-upsell p {
+margin:.5em 0;
+font-size:1.5em;
+text-transform:lowercase;
+}
+.product-logo {
+margin-bottom:8px;
+}
+.success-message img {
+margin:8px auto 8px;
+}
+.product-upsell.align-left {
+padding:1em 30em 2em 2em;
+text-align:right;
+}
+.product-upsell.align-left img {
+margin-left:auto;
+}
+.product-upsell.text-light,
+.product-upsell.text-light h3,
+.product-upsell.text-light p {
+color:#fff;
+text-shadow:0 0 5px rgba(0,0,0,.5);
+}
+.product-upsell .btn_hairline {
+text-shadow:none;
+}
+.product-upsell.text.dark * {
+color:#222;
+}
+.js-selected.product-upsell {
+padding:1em 2em 2em 2em;
+text-align:center;
+}
+#content .login .tab_section .tabs {
+margin-top:30px;
+}
+.login.logindot .tabs,
+.login.webmail .tabs {
+top:0;
+margin-top:3em;
+}
+.login_form {
+display:block;
+margin-bottom:1em;
+}
+input[type="text"].username-input,
+input[type="password"].password-input {
+display:block;
+}
+.lte_ie9 input[type="password"].password-input {
+margin-bottom:0;
+}
+.product-upsell .identity {
+color:#3575B9;
+}
+.aff-user-input,
+.aff-pass-input {
+display:block;
+margin:0 auto 1em;
+width:15em;
+}
+.aff-btn {
+margin-left:11px;
+}

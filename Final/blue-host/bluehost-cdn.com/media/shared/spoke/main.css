@@ -1,0 +1,789 @@
+/* WARNING! This file is being generated from main.scss */
+/* Header - login */
+#header .main_nav .account_login_tab a {
+padding:0 1em;
+}
+#header .spoke_tab .spoke_logo {
+vertical-align:-.95em;
+}
+/* Main */
+#main {
+background:#DBDBDB url(../../branding/spoke/heroes/main.jpg) no-repeat center top;
+}
+#main,#main .main_wrapper {
+width:960px;
+height:100%;
+margin:0 auto;
+padding:0;
+}
+#main .main_wrapper {
+background-color:#E9E9E9;
+background-color:rgba(233,233,233,.6);
+width:845px;
+padding:30.3em 0 10em;
+position:relative;
+}
+.main_wrapper:after {
+content:'';
+background:url(../../branding/spoke/footer.png) no-repeat 0 0;
+width:960px;
+height:66px;
+margin:0 0 0 -480px;
+position:absolute;
+bottom:0;
+left:50%;
+}
+/* Main - claim your account */
+.claim {
+background:#3575B9;
+min-width:25em;
+padding:1em 1.5em;
+color:#FFF;
+position:absolute;
+top:20em;
+left:0;
+}
+.claim .notice {
+margin:0;
+font-size:1.8em;
+color:#FFF;
+}
+.claim p {
+margin:0 0 1em;
+font-size:.95em;
+line-height:1.2;
+}
+/* Main - Massive Nav */
+.type_select {
+background:#FFF;
+background:rgba(255,255,255,.75);
+width:60em;
+height:9.4em;
+margin:0 0 0 -30em;
+padding:0 6.75%;
+border:1px solid #D6D6D6;
+border-right:0;
+border-left:0;
+position:absolute;
+top:21em;
+left:50%;
+}
+.lt_ie9 .type_select {
+-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=75)';
+}
+.type_select .spoke_logo {
+background-image:url(../../branding/education/logo_big.png);
+width:108px;
+height:106px;
+margin:-53px 0 0 -54px;
+}
+.svg .type_select .spoke_logo {
+background-image:url(http://bluehost-cdn.com/media/branding/spoke/logo.svg);
+background-size:108px 106px;
+}
+.type_select a {
+background:transparent;
+float:left;
+width:25%;
+height:100%;
+margin:0;
+border-right:1px solid #D6D6D6;
+border-left:0;
+vertical-align:middle;
+text-align:center;
+font-size:1.5em;
+line-height:5.95;
+position:relative;
+}
+.type_select a span {
+display:inline-block;
+vertical-align:middle;
+line-height:normal;
+}
+.type_select a:first-child {
+margin:0;
+border-left:1px solid #D6D6D6;
+}
+.type_select a img {
+margin:-55px 0 0 -60px;
+position:absolute;
+top:50%;
+left:50%;
+}
+.type_select .selected {
+background:#FFF;
+}
+.type_select .selected:after,.type_select .selected:before {
+content:'';
+width:0;
+height:0;
+margin:0 0 0 -15px;
+border:15px solid rgba(0,0,0,0);
+border-top-color:#FFF;
+border-bottom:0;
+position:absolute;
+top:100%;
+left:50%;
+z-index:1;
+}
+.type_select .selected:after {
+margin:0 0 0 -16px;
+border:16px solid rgba(0,0,0,0);
+border-top-color:#CCC;
+border-bottom:0;
+z-index:0;
+}
+#main h1 {
+margin:0 0 1em;
+padding:2em 0 2em;
+text-align:center;
+}
+/* Main - Columns */
+.columns .column {
+background:#FFF;
+float:left;
+width:30%;
+min-height:32em;
+margin:0 2.5%;
+padding:7em 3% 0;
+text-align:center;
+position:relative;
+}
+.lt_ie9 .columns .column {
+min-height:25em;
+}
+.columns .second {
+margin:0;
+}
+.columns h3 {
+background:url(../../branding/spoke/circle_one.png) no-repeat center 0;
+width:215px;
+height:215px;
+margin:0 0 0 -107.5px;
+padding:2em 1em;
+text-align:center;
+font-size:2.2em;
+line-height:1;
+color:#FFF;
+position:absolute;
+top:-110px;
+left:50%;
+}
+.main .first h3 {
+padding:2em;
+}
+.columns .second h3 {
+background-image:url(../../branding/spoke/circle_two.png);
+}
+.columns .third h3 {
+background-image:url(../../branding/spoke/circle_three.png);
+}
+.columns p {
+text-align:left;
+}
+/* Students */
+#main.students {
+background-image:url(../../branding/spoke/heroes/students.jpg);
+}
+/* Students - Accounts */
+.accounts.grid {
+background:#FFF;
+}
+.accounts.grid .single,.accounts.grid .double {
+background:0;
+}
+.accounts.grid .single {
+width:33%;
+padding:2em 2em 2em 3em;
+}
+.accounts.grid .double {
+width:50%;
+padding:2em 3em 2em 3em;
+text-align:center;
+}
+.accounts .double .price,.accounts .single .price {
+text-align:center;
+}
+.accounts .double p {
+margin:2em 0 1em;
+text-align:left;
+font-size:1.4em;
+}
+.accounts .single p {
+text-align:left;
+font-size:1.3em;
+}
+.accounts.grid .single h3 {
+}
+.accounts .single .price { 
+font-size:1.5em;
+}
+.accounts .double .price {
+margin:.25em 0 1em 4em;
+}
+.accounts .single .price span, .accounts .double .price span {
+font-size:2em;
+}
+/* Students - Establish */
+.establish {
+background:url(../../branding/spoke/student.jpg) no-repeat 90% center;
+min-height:22em;
+padding:2.5em 0 2.5em 3em;
+}
+.main .spoke_features h3 b,.establish h3 b,.students .spoke_features h3 b,.faculty .spoke_features h3 b {
+display:block;
+}
+.establish p {
+width:16em;
+font-size:1.2em;
+}
+/* Faculty */
+#main.faculty {
+background-image:url(../../branding/spoke/heroes/faculty.jpg);
+}
+/* Faculty - Grid */
+.grid .single,.grid .double,.grid .triple {
+float:left;
+width:99.99%;
+min-height:15em;
+margin:0 auto;
+padding:2em;
+}
+.grid .single {
+width:33.33%;
+}
+.grid .single h3 {
+font-size:1.5em;
+color:#3575B9;
+}
+.grid .double {
+width:66.66%;
+padding:2em 0 2em 7em;
+}
+.grid .white_tile {
+background:#FFF;
+}
+.triple .primary_background {
+min-height:6.25em;
+text-align:center;
+color:#FFF;
+}
+.grid .primary_background {
+background:#3575B9;
+}
+.grid .primary_background p {
+margin:0;
+font-size:1.5em;
+}
+.grid .primary_background a {
+color:#FFF;
+}
+.grid .primary_background .subtext {
+font-size:1.1em;
+}
+/* Faculty - Grid */
+.faculty .grid .single {
+padding:3em 0 0;
+}
+.faculty .grid .double,.institution .grid .double {
+padding:2em 3em 2em 5em;
+}
+.faculty .grid .free {
+padding:2em 7em 2em 7em;
+}
+.grid .free h2 {
+float:left;
+margin:.2em 0 .5em;
+text-transform:uppercase;
+font-size:3em;
+}
+.grid .free .bold {
+float:left;
+clear:none;
+width:8em;
+margin:.75em 0 0 1em;
+font-size:1em;
+}
+.grid .free p {
+clear:both;
+font-size:.9em;
+}
+/* Faculty - Educator Tools */
+.educator_tools,.institution .columns {
+background:#FFF;
+padding:3em;
+}
+.educator_tools h3,.spoke_features h3,.partners h3,.establish h3 {
+margin:0 0 1em;
+font-size:1.25em;
+}
+.educator_tools h3 b,.spoke_features h3 b,.partners h3 b,.establish h3 b {
+font-size:1.3em; 
+display: block;
+}
+.educator_tools .columns {
+padding:2em 0 0;
+}
+.educator_tools .columns .column {
+padding-top:0;
+}
+.educator_tools .column h4,.institution .column h4 {
+width:6em;
+margin:1em 0 .5em;
+text-align:left;
+font-size:1.5em;
+}
+.divider {
+background:#666;
+width:20px;
+height:1px;
+}
+/* Faculty - Feature List */
+.spoke_features {
+background:#FFF;
+clear:both;
+padding:1em 1em 3em;
+}
+.spoke_features h3 {
+margin:1em 0 2em 1.6em;
+}
+.spoke_features .feature {
+background:#FFF url(../../branding/spoke/icons/hearts.png) no-repeat .5em 1em;
+display:inline-block;
+width:50%;
+min-height:15em;
+margin:0 -2px;
+padding:0 2em 0 7em;
+vertical-align:top;
+font-size:1em;
+}
+.spoke_features .domain {
+background-image:url(../../branding/spoke/icons/free.png);
+}
+.spoke_features .help {
+background-image:url(../../branding/spoke/icons/tools.png);
+}
+.spoke_features .email {
+background-image:url(../../branding/spoke/icons/mail.png);
+}
+.spoke_features .space {
+background-image:url(../../branding/spoke/icons/space.png);
+}
+.spoke_features .support {
+background-image:url(../../branding/spoke/icons/headset.png);
+}
+.spoke_features .website {
+background-image:url(../../branding/spoke/icons/website.png);
+}
+.spoke_features .bold {
+font-size:1.5em;
+color:#000;
+}
+/* Nerdy Details */
+.nerdy_details {
+width:750px;
+margin:0 auto;
+padding:0;
+border:1px solid #E1E1E1;
+position:relative;
+}
+.nerdy_details.opened {
+padding:1em 0 0;
+border:0;
+}
+.open_details {
+margin:-1em auto -2em;
+text-align:center;
+}
+.open_details .btn_secondary {
+max-width:20em;
+font-size:1.5em;
+position:relative;
+top:-.4em;
+z-index:1;
+}
+.nerdy_details h3,.nerdy_details ul {
+margin:0;
+padding:0;
+}
+.nerdy_details h3 {
+margin:0 0 1em;
+text-transform:lowercase;
+}
+.nerdy_details ul {
+float:left;
+width:46%;
+margin:0 2%;
+padding:0 0 2em;
+list-style:none;
+}
+.nerdy_details li {
+padding:10px 0 5px;
+border-top:1px solid #666;
+text-align:right;
+font-size:1.1em;
+font-variant:small-caps;
+}
+.nerdy_details li:first-child {
+border-top:0;
+}
+.nerdy_details .detail {
+float:left;
+text-align:left;
+font-size:.9em;
+font-variant:normal;
+}
+.nerdy_details .check {
+display:inline-block;
+padding:0 1.5em 0 0;
+text-align:center;
+}
+/* Faculty - Powered */
+.powered {
+background:#FFF;
+clear:both;
+padding:5em 0;
+}
+.powered .circle {
+background:#DDD;
+float:left;
+width:200px;
+height:200px;
+margin:0 4em;
+border-radius:50%;
+position:relative;
+}
+.circle .inner_circle,.circle .circle_text {
+background:#3575B9;
+width:80%;
+height:80%;
+margin:-40% 0 0 -40%;
+border-radius:50%;
+text-align:center;
+position:absolute;
+top:50%;
+left:50%;
+}
+.circle .circle_text a {
+width:7em;
+height:3em;
+margin:-1.5em 0 0 -3.5em;
+padding:0;
+text-align:center;
+font-size:1.25em;
+color:#FFF;
+position:absolute;
+top:50%;
+left:50%;
+}
+.circle .circle_text .brand_name {
+font-size:1.4em;
+}
+.powered img {
+float:left;
+margin:0 2.5em 0 5em;
+}
+.powered p {
+margin:0;
+padding:2.5em 5em;
+font-size:1em;
+}
+/* Faculty - Partners */
+.partners {
+padding:45px;
+}
+.partners h3 {
+margin-left:.4em;
+}
+.partners img {
+margin:.5em;
+}
+/* Institution - Product Models */
+.institution .column {
+background:url(../../branding/spoke/icons/books.jpg) no-repeat 3em top;
+padding:3em 3% 0;
+}
+.institution .account_types .column {
+width:47%;
+}
+.institution .column.second {
+background-image:url(../../branding/spoke/icons/people.jpg);
+}
+.institution .column.third {
+background-image:url(../../branding/spoke/icons/building.jpg);
+}
+/* Institution - Hero */
+#main.institution {
+background-image:url(../../branding/spoke/heroes/institution.jpg);
+}
+/* Login */
+#main.login {
+background:none;
+}
+#main.login .main_wrapper {
+background:0;
+height:100%;
+padding:5em 0 10em;
+}
+#main.login .main_wrapper:after {
+display:none;
+}
+#main.login .heading {
+padding:0;
+}
+.login pre {
+text-align:left;
+}
+.login_form {
+text-align:center;
+}
+.js_on .login_form label {
+display:none;
+}
+.lte_ie9 .login_form label {
+display:block !important;
+}
+#main .login_form input {
+width:15em;
+margin:.5em 0;
+}
+#main .login_form .btn_secondary {
+width:auto;
+}
+.login .links a {
+display:inline-block;
+zoom:1;
+margin:0 -2px;
+padding:0 .5em;
+border-left:1px solid #AAA;
+}
+.ie7 .login .links a {
+display:inline;
+}
+.login .links a:first-child {
+border:0;
+}
+/* Pages with heros */
+#main.hero {
+background:#DBDBDB url(../../branding/spoke/heroes/resources.jpg) no-repeat center top;
+}
+#main.hero .main_wrapper {
+background-color:#E9E9E9;
+background-color:rgba(233,233,233,.8);
+width:845px;
+padding:30.3em 0 10em;
+position:relative;
+}
+.ie8 .main_wrapper {
+-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=90)';
+}
+/* Signup */
+#main.signup {
+background-image:url(../../branding/spoke/heroes/create.jpg);
+}
+.signup .white_tile {
+min-height:15em;
+text-align:left;
+color:#666;
+}
+#main.signup h1 {
+margin:-2.5em 0 1.5em;
+padding:0;
+}
+/* Signup - Form */
+.signup .signup_form {
+width:80%;
+margin:0 auto;
+padding:0 2em;
+}
+.signup_form * {
+-webkit-box-sizing:border-box;
+-moz-box-sizing:border-box;
+box-sizing:border-box;
+}
+.signup_form .half,.signup_form .full {
+display:inline-block;
+width:49%;
+margin:0;
+padding:0 2em;
+vertical-align:top;
+}
+.signup_form .full {
+width:98.5%;
+}
+.signup_form .full input[type='radio'] {
+display:inline;
+width:auto;
+margin:0 .5em;
+}
+.signup_form .radio_input label[for] {
+display:inline;
+}
+.signup_form label[for] {
+display:block;
+padding:.5em 0 .25em;
+}
+.signup_form .question {
+cursor:text;
+}
+.signup_form input,.signup_form select {
+display:block;
+width:100%;
+}
+.signup_form select:focus {
+outline:thin dotted;
+}
+.signup_form .req {
+padding:0 .15em 0 0;
+}
+.signup_form .error {
+display:block;
+padding:.5em 0;
+}
+.signup_form .error:empty {
+padding:0;
+}
+.signup_form #zip {
+width:5em;
+}
+.signup_form .btn_primary {
+float:right;
+width:auto;
+margin:0 0 0 3em;
+}
+.instructor_signup .signup_form .btn_primary {
+float:none;
+margin:1em 0 0;
+}
+.signup_form .btn_primary:focus,.signup_form .btn_secondary:focus {
+outline:#666 thin dotted;
+}
+/* Signup - Instructor Signup */
+.ie9 .full {
+width:98.75%;
+}
+.lt_ie9 .full {
+width:98.6%;
+}
+/* Change Password */
+#main.password .main_wrapper,#main.forgot .main_wrapper {
+padding-right:2em;
+padding-left:2em;
+}
+#main.password h1,#main.forgot h1 {
+margin:-2.5em 0 1.5em;
+padding:0;
+text-align:left;
+}
+.password .signup_form .half {
+display:block;
+padding:.5em 0;
+}
+.password .signup_form label[for] {
+padding:.25em 0 0;
+}
+.password .signup_form .btn_secondary {
+float:right;
+width:auto;
+}
+/* Change Password/Forgot Password - Contact Info */
+.contact_info {
+margin:1em 0;
+font-size:1.2em;
+}
+.contact_info strong {
+display:block;
+}
+.contact_info p {
+width:25em;
+margin:1em 0 1em 2em;
+font-size:.85em;
+}
+/* Forgot Password */
+.forgot .full {
+margin:0 0 1em 0;
+}
+.forgot .full input {
+display:inline-block;
+width:16em;
+}
+.forgot .signup_form .btn_secondary {
+width:auto;
+}
+/* Main - Institution */
+.main .grid {
+background:#FFF;
+position:relative;
+}
+.main .grid .single {
+min-height:15em;
+}
+.main .single.powered {
+margin:0;
+}
+.main .powered img {
+float:none;
+margin:0;
+vertical-align:middle;
+}
+.grid .circle {
+float:none;
+margin:0 auto;
+}
+.main .circle .inner_circle {
+background:url(../../branding/spoke/institution_default.png) no-repeat center;
+-webkit-background-size:100%;
+background-size:100%;
+width:170px;
+height:170px;
+margin:-85px;
+}
+.main .grid .title {
+margin:0;
+font-size:1.1em;
+}
+.main .grid .subtext {
+margin:0;
+}
+.main .grid .price {
+margin:0;
+font-size:1em;
+}
+.main .grid p {
+margin-top:0;
+}
+.main .grid .notice {
+font-size:2.5em;
+}
+.main .free h2 {
+margin:.5em 0 0;
+font-size:2.5em;
+}
+.main .free .bold {
+width:auto;
+margin:1.75em 0 1em 1em;
+font-size:.8em;
+}
+.main .grid_form {
+background:#FFF;
+clear:both;
+width:20em;
+margin:0 25em -3em;
+padding:1em;
+border:2px solid #FFF;
+text-align:left;
+position:relative;
+bottom:4.5em;
+}
+.grid_form .email_input {
+border:1px solid #AAA;
+}
+#main.institution_one {
+background-image:url(../../branding/spoke/heroes/institution_one.jpg);
+}
+#main.institution_two {
+background-image:url(../../branding/spoke/heroes/institution_two.jpg);
+}
+#main.institution_three {
+background-image:url(../../branding/spoke/heroes/institution_three.jpg);
+}

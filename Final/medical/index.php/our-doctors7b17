@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Our Doctors</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.dhtheme.com"/>
+	<id>http://www.dhtheme.com/medica/index.php/our-doctors</id>
+	<updated>2016-05-16T03:46:38+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.dhtheme.com/medica/index.php/our-doctors?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Dr. Lexy (Radiology)</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/our-doctors/87-dr-lexy"/>
+		<published>2013-08-07T08:19:03+00:00</published>
+		<updated>2013-08-07T08:19:03+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/our-doctors/87-dr-lexy</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Dr. Samantha Lexy, PhD&lt;img class=&quot;size-auto&quot; style=&quot;margin-right: 10px; float: left;&quot; title=&quot;Our Doctors&quot; src=&quot;images/Demo/doctors/doc4.png&quot; alt=&quot;Dr. Lexy&quot; width=&quot;160&quot; height=&quot;160&quot; /&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt;Radiology Department Chief&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Dr. Samantha Lexy, PhD&lt;img class=&quot;size-auto&quot; style=&quot;margin-right: 10px; float: left;&quot; title=&quot;Our Doctors&quot; src=&quot;images/Demo/doctors/doc4.png&quot; alt=&quot;Dr. Lexy&quot; width=&quot;160&quot; height=&quot;160&quot; /&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt;Radiology Department Chief&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Doctors" />
+	</entry>
+	<entry>
+		<title>Dr. Bell (Urology)</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/our-doctors/86-dr-bell"/>
+		<published>2013-08-07T07:49:47+00:00</published>
+		<updated>2013-08-07T07:49:47+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/our-doctors/86-dr-bell</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Dr. Samantha Bell, PhD&lt;img class=&quot;size-auto&quot; style=&quot;margin-right: 10px; float: left;&quot; title=&quot;Our Doctors&quot; src=&quot;images/Demo/doctors/doc6.png&quot; alt=&quot;Dr. Bell&quot; width=&quot;160&quot; height=&quot;160&quot; /&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt;Urology Department Chief&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Dr. Samantha Bell, PhD&lt;img class=&quot;size-auto&quot; style=&quot;margin-right: 10px; float: left;&quot; title=&quot;Our Doctors&quot; src=&quot;images/Demo/doctors/doc6.png&quot; alt=&quot;Dr. Bell&quot; width=&quot;160&quot; height=&quot;160&quot; /&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt;Urology Department Chief&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Doctors" />
+	</entry>
+	<entry>
+		<title>Dr. Russell (Pediatrics)</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/our-doctors/85-dr-russell"/>
+		<published>2013-08-01T11:54:08+00:00</published>
+		<updated>2013-08-01T11:54:08+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/our-doctors/85-dr-russell</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Dr. Sebastien Russell, PhD&lt;img class=&quot;size-auto&quot; style=&quot;margin-right: 10px; float: left;&quot; title=&quot;Our Doctors&quot; src=&quot;images/Demo/doctors/doc1.png&quot; alt=&quot;Dr. Russell&quot; width=&quot;160&quot; height=&quot;160&quot; /&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt;Pediatrics Department Chief&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Dr. Sebastien Russell, PhD&lt;img class=&quot;size-auto&quot; style=&quot;margin-right: 10px; float: left;&quot; title=&quot;Our Doctors&quot; src=&quot;images/Demo/doctors/doc1.png&quot; alt=&quot;Dr. Russell&quot; width=&quot;160&quot; height=&quot;160&quot; /&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt;Pediatrics Department Chief&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Doctors" />
+	</entry>
+</feed>

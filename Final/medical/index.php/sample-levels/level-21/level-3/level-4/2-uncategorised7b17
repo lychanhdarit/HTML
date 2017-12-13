@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Level 4</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.dhtheme.com"/>
+	<id>http://www.dhtheme.com/medica/index.php/sample-levels/level-21/level-3/level-4/2-uncategorised</id>
+	<updated>2016-05-16T05:13:35+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.dhtheme.com/medica/index.php/sample-levels/level-21/level-3/level-4/2-uncategorised?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Pricing Tables</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/features/pricing-tables"/>
+		<published>2013-08-07T12:12:50+00:00</published>
+		<updated>2013-08-07T12:12:50+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/features/pricing-tables</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;div class=&quot;box-note&quot;&gt;These are 2, 3 and 4 column Pricing Table examples&lt;/div&gt;
+
+&lt;div class=&quot;section group&quot;&gt;
+&lt;div class=&quot;col span_1_of_2&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Rehabilitation&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$299&lt;/div&gt;
+        &lt;p&gt;Flexibility and stretching&lt;/p&gt;
+        &lt;p&gt;Strengthening exercises&lt;/p&gt;
+        &lt;p&gt;Spine stabilization&lt;/p&gt;
+        &lt;p&gt;Biofeedback&lt;/p&gt;     
+     &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_2&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+   &lt;div&gt;
+      &lt;h2&gt;Maternity Package&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$599&lt;/div&gt;
+        &lt;p&gt;10 antenatal consultations&lt;/p&gt;
+        &lt;p&gt;Pediatrician for 1st exam&lt;/p&gt;
+        &lt;p&gt;Obstetrician’s ward review&lt;/p&gt;
+        &lt;p&gt;Ward drugs and disposables&lt;/p&gt;    
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;section group&quot;&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Rehabilitation&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$299&lt;/div&gt;
+        &lt;p&gt;Flexibility and stretching&lt;/p&gt;
+        &lt;p&gt;Strengthening exercises&lt;/p&gt;
+        &lt;p&gt;Spine stabilization&lt;/p&gt;
+        &lt;p&gt;Biofeedback&lt;/p&gt;     
+     &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable-bestseller&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Dental Package&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$399&lt;/div&gt;
+        &lt;p&gt;Laser tooth whitening&lt;/p&gt;
+        &lt;p&gt;Dental veneers&lt;/p&gt;
+        &lt;p&gt;Porcelain crowns&lt;/p&gt;
+        &lt;p&gt;Dental implants&lt;/p&gt;
+        &lt;p&gt;Dental Surgery&lt;/p&gt;   
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Maternity Package&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$599&lt;/div&gt;
+        &lt;p&gt;10 antenatal consultations&lt;/p&gt;
+        &lt;p&gt;Pediatrician for 1st exam&lt;/p&gt;
+        &lt;p&gt;Obstetrician’s ward review&lt;/p&gt;
+        &lt;p&gt;Ward drugs and disposables&lt;/p&gt;    
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;section group&quot;&gt;
+&lt;div class=&quot;col span_1_of_4&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Rehabilitation&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$299&lt;/div&gt;
+        &lt;p&gt;Flexibility and stretching&lt;/p&gt;
+        &lt;p&gt;Strengthening exercises&lt;/p&gt;
+        &lt;p&gt;Spine stabilization&lt;/p&gt;
+        &lt;p&gt;Biofeedback&lt;/p&gt;     
+     &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_4&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable-bestseller&quot;&gt;
+     &lt;div&gt;
+      &lt;h2&gt;Dental Package&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$399&lt;/div&gt;
+        &lt;p&gt;Laser tooth whitening&lt;/p&gt;
+        &lt;p&gt;Dental veneers&lt;/p&gt;
+        &lt;p&gt;Porcelain crowns&lt;/p&gt;
+        &lt;p&gt;Dental implants&lt;/p&gt;
+        &lt;p&gt;Dental Surgery&lt;/p&gt;   
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_4&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Maternity Package&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$599&lt;/div&gt;
+        &lt;p&gt;10 antenatal consultations&lt;/p&gt;
+        &lt;p&gt;Pediatrician for 1st exam&lt;/p&gt;
+        &lt;p&gt;Obstetrician’s ward review&lt;/p&gt;
+        &lt;p&gt;Ward drugs and disposables&lt;/p&gt;    
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_4&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Ophthalmology&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$899&lt;/div&gt;
+        &lt;p&gt;PHACO(Excluding Lens)&lt;/p&gt;
+        &lt;p&gt;DCR&lt;/p&gt;
+        &lt;p&gt;Autographting&lt;/p&gt;
+        &lt;p&gt;PTG + AT&lt;/p&gt;     
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;div class=&quot;box-note&quot;&gt;These are 2, 3 and 4 column Pricing Table examples&lt;/div&gt;
+
+&lt;div class=&quot;section group&quot;&gt;
+&lt;div class=&quot;col span_1_of_2&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Rehabilitation&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$299&lt;/div&gt;
+        &lt;p&gt;Flexibility and stretching&lt;/p&gt;
+        &lt;p&gt;Strengthening exercises&lt;/p&gt;
+        &lt;p&gt;Spine stabilization&lt;/p&gt;
+        &lt;p&gt;Biofeedback&lt;/p&gt;     
+     &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_2&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+   &lt;div&gt;
+      &lt;h2&gt;Maternity Package&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$599&lt;/div&gt;
+        &lt;p&gt;10 antenatal consultations&lt;/p&gt;
+        &lt;p&gt;Pediatrician for 1st exam&lt;/p&gt;
+        &lt;p&gt;Obstetrician’s ward review&lt;/p&gt;
+        &lt;p&gt;Ward drugs and disposables&lt;/p&gt;    
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;section group&quot;&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Rehabilitation&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$299&lt;/div&gt;
+        &lt;p&gt;Flexibility and stretching&lt;/p&gt;
+        &lt;p&gt;Strengthening exercises&lt;/p&gt;
+        &lt;p&gt;Spine stabilization&lt;/p&gt;
+        &lt;p&gt;Biofeedback&lt;/p&gt;     
+     &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable-bestseller&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Dental Package&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$399&lt;/div&gt;
+        &lt;p&gt;Laser tooth whitening&lt;/p&gt;
+        &lt;p&gt;Dental veneers&lt;/p&gt;
+        &lt;p&gt;Porcelain crowns&lt;/p&gt;
+        &lt;p&gt;Dental implants&lt;/p&gt;
+        &lt;p&gt;Dental Surgery&lt;/p&gt;   
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Maternity Package&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$599&lt;/div&gt;
+        &lt;p&gt;10 antenatal consultations&lt;/p&gt;
+        &lt;p&gt;Pediatrician for 1st exam&lt;/p&gt;
+        &lt;p&gt;Obstetrician’s ward review&lt;/p&gt;
+        &lt;p&gt;Ward drugs and disposables&lt;/p&gt;    
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;section group&quot;&gt;
+&lt;div class=&quot;col span_1_of_4&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Rehabilitation&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$299&lt;/div&gt;
+        &lt;p&gt;Flexibility and stretching&lt;/p&gt;
+        &lt;p&gt;Strengthening exercises&lt;/p&gt;
+        &lt;p&gt;Spine stabilization&lt;/p&gt;
+        &lt;p&gt;Biofeedback&lt;/p&gt;     
+     &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_4&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable-bestseller&quot;&gt;
+     &lt;div&gt;
+      &lt;h2&gt;Dental Package&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$399&lt;/div&gt;
+        &lt;p&gt;Laser tooth whitening&lt;/p&gt;
+        &lt;p&gt;Dental veneers&lt;/p&gt;
+        &lt;p&gt;Porcelain crowns&lt;/p&gt;
+        &lt;p&gt;Dental implants&lt;/p&gt;
+        &lt;p&gt;Dental Surgery&lt;/p&gt;   
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_4&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Maternity Package&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$599&lt;/div&gt;
+        &lt;p&gt;10 antenatal consultations&lt;/p&gt;
+        &lt;p&gt;Pediatrician for 1st exam&lt;/p&gt;
+        &lt;p&gt;Obstetrician’s ward review&lt;/p&gt;
+        &lt;p&gt;Ward drugs and disposables&lt;/p&gt;    
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;col span_1_of_4&quot; style=&quot;text-align: center;&quot;&gt;
+  &lt;div class=&quot;ptable&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Ophthalmology&lt;/h2&gt;
+      &lt;div class=&quot;price&quot;&gt;$899&lt;/div&gt;
+        &lt;p&gt;PHACO(Excluding Lens)&lt;/p&gt;
+        &lt;p&gt;DCR&lt;/p&gt;
+        &lt;p&gt;Autographting&lt;/p&gt;
+        &lt;p&gt;PTG + AT&lt;/p&gt;     
+    &lt;/div&gt;
+&lt;p&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule now&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Spotlight Examples</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/features/spotlight"/>
+		<published>2013-02-21T12:14:59+00:00</published>
+		<updated>2013-02-21T12:14:59+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/features/spotlight</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;div&gt;&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/1.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/1.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt; &lt;/a&gt; &lt;a data-spotlight=&quot;effect:bottom;&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/2.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/2.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;
+&lt;div class=&quot;overlay&quot;&gt;Custom Overlay (Bottom)&lt;/div&gt;
+&lt;/a&gt; &lt;a data-spotlight=&quot;effect:right;&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/3.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/3.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;
+&lt;div class=&quot;overlay&quot;&gt;Custom Overlay (Right)&lt;/div&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a data-spotlight=&quot;effect:fade;&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/4.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/4-2.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;
+&lt;div class=&quot;overlay remove-padding&quot;&gt;&lt;img src=&quot;images/Demo/gallery/4.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/div&gt;
+&lt;/a&gt; &lt;a data-spotlight=&quot;effect:top;&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/5.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/5.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;
+&lt;div class=&quot;overlay&quot;&gt;Custom Overlay (Top)&lt;/div&gt;
+&lt;/a&gt; &lt;a data-spotlight=&quot;effect:left;&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/6.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/6.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;
+&lt;div class=&quot;overlay&quot;&gt;Custom Overlay (Left)&lt;/div&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;div&gt;&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/1.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/1.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt; &lt;/a&gt; &lt;a data-spotlight=&quot;effect:bottom;&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/2.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/2.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;
+&lt;div class=&quot;overlay&quot;&gt;Custom Overlay (Bottom)&lt;/div&gt;
+&lt;/a&gt; &lt;a data-spotlight=&quot;effect:right;&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/3.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/3.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;
+&lt;div class=&quot;overlay&quot;&gt;Custom Overlay (Right)&lt;/div&gt;
+&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a data-spotlight=&quot;effect:fade;&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/4.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/4-2.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;
+&lt;div class=&quot;overlay remove-padding&quot;&gt;&lt;img src=&quot;images/Demo/gallery/4.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/div&gt;
+&lt;/a&gt; &lt;a data-spotlight=&quot;effect:top;&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/5.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/5.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;
+&lt;div class=&quot;overlay&quot;&gt;Custom Overlay (Top)&lt;/div&gt;
+&lt;/a&gt; &lt;a data-spotlight=&quot;effect:left;&quot; data-lightbox=&quot;transitionIn:elastic;transitionOut:elastic;&quot; href=&quot;images/Demo/gallery/6.jpg&quot;&gt; &lt;img src=&quot;images/Demo/gallery/6.jpg&quot; alt=&quot;Spotlight Image&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;
+&lt;div class=&quot;overlay&quot;&gt;Custom Overlay (Left)&lt;/div&gt;
+&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Gallery</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/features/gallery"/>
+		<published>2013-02-21T12:00:11+00:00</published>
+		<updated>2013-02-21T12:00:11+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/features/gallery</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;This is an example of simple gallery with Widgetkit Spotlight effect and lightbox.&lt;/h3&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/1.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/1.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/2.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/2.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/3.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/3.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/4.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/4.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/5.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/5.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/6.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/6.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/7.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/7.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/8.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/8.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/9.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/9.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;This is an example of simple gallery with Widgetkit Spotlight effect and lightbox.&lt;/h3&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/1.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/1.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/2.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/2.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/3.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/3.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/4.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/4.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/5.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/5.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/6.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/6.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/7.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/7.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/8.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/8.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;
+&lt;a data-spotlight=&quot;on&quot; data-lightbox=&quot;group:mygroup&quot; href=&quot;images/Demo/gallery/9.jpg&quot;&gt;&lt;img src=&quot;images/Demo/gallery/9.jpg&quot; alt=&quot;&quot; height=&quot;220&quot; width=&quot;230&quot; /&gt;&lt;/a&gt;&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Widgetkit Slideshow</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/features/sliders/widgetkit-slideshow"/>
+		<published>2013-02-21T11:08:39+00:00</published>
+		<updated>2013-02-21T11:08:39+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/features/sliders/widgetkit-slideshow</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;Use the Widgetkit slideshow with various effects. Easy to use and responsive - you can use it in articles!&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;Use the Widgetkit slideshow with various effects. Easy to use and responsive - you can use it in articles!&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Revolution Slider</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/features/sliders/revolution-slider"/>
+		<published>2013-02-21T10:47:23+00:00</published>
+		<updated>2013-02-21T10:47:23+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/features/sliders/revolution-slider</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Using the Revoliution Slider you can create unique slideshows. Boost your creativity and give life to your slides.&lt;/p&gt;
+&lt;p&gt;You can choose between:&lt;/p&gt;
+&lt;ul class=&quot;check&quot;&gt;
+&lt;li&gt;Full-width slider (available in &lt;code&gt;top-a&lt;/code&gt; &amp; &lt;code&gt;bottom-a&lt;/code&gt; module position)&lt;/li&gt;
+&lt;li&gt;Fixed&lt;/li&gt;
+&lt;li&gt;Responsive&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Using the Revoliution Slider you can create unique slideshows. Boost your creativity and give life to your slides.&lt;/p&gt;
+&lt;p&gt;You can choose between:&lt;/p&gt;
+&lt;ul class=&quot;check&quot;&gt;
+&lt;li&gt;Full-width slider (available in &lt;code&gt;top-a&lt;/code&gt; &amp; &lt;code&gt;bottom-a&lt;/code&gt; module position)&lt;/li&gt;
+&lt;li&gt;Fixed&lt;/li&gt;
+&lt;li&gt;Responsive&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Buttons</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/features/buttons"/>
+		<published>2013-02-19T11:06:56+00:00</published>
+		<updated>2013-02-19T11:06:56+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/features/buttons</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Medica template comes with 5 buttons styles. 3 of the buttons comes in 3 different sizes.&lt;/p&gt;
+&lt;p&gt;Use the CSS classes &lt;code&gt;small button color&lt;/code&gt;, &lt;code&gt;medium button color&lt;/code&gt; or &lt;code&gt;large button color&lt;/code&gt; to create nice buttons. For color use one of the 3 preseted color variations.&lt;/p&gt;
+&lt;h3&gt;Small Buttons:&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;small mybutton light&quot;&gt;Light Button&lt;/a&gt; &lt;a class=&quot;small mybutton color&quot;&gt;Color Button&lt;/a&gt; &lt;a class=&quot;small mybutton highlight&quot;&gt;Highlight Button&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Medium Buttons:&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;medium mybutton light&quot;&gt;Light Button&lt;/a&gt; &lt;a class=&quot;medium mybutton color&quot;&gt;Color Button&lt;/a&gt; &lt;a class=&quot;medium mybutton highlight&quot;&gt;Highlight Button&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Large Buttons:&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;large mybutton light&quot;&gt;Light Button&lt;/a&gt; &lt;a class=&quot;large mybutton color&quot;&gt;Color Button&lt;/a&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;Highlight Button&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Use Font Awesome to create more Awesome buttons:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;large mybutton light&quot;&gt;&lt;i class=&quot;icon-stethoscope&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule an appointment&lt;/a&gt; &lt;a class=&quot;large mybutton color&quot;&gt;&lt;i class=&quot;icon-ambulance&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Emergency Details&lt;/a&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Interns List&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Medica template comes with 5 buttons styles. 3 of the buttons comes in 3 different sizes.&lt;/p&gt;
+&lt;p&gt;Use the CSS classes &lt;code&gt;small button color&lt;/code&gt;, &lt;code&gt;medium button color&lt;/code&gt; or &lt;code&gt;large button color&lt;/code&gt; to create nice buttons. For color use one of the 3 preseted color variations.&lt;/p&gt;
+&lt;h3&gt;Small Buttons:&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;small mybutton light&quot;&gt;Light Button&lt;/a&gt; &lt;a class=&quot;small mybutton color&quot;&gt;Color Button&lt;/a&gt; &lt;a class=&quot;small mybutton highlight&quot;&gt;Highlight Button&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Medium Buttons:&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;medium mybutton light&quot;&gt;Light Button&lt;/a&gt; &lt;a class=&quot;medium mybutton color&quot;&gt;Color Button&lt;/a&gt; &lt;a class=&quot;medium mybutton highlight&quot;&gt;Highlight Button&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Large Buttons:&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;large mybutton light&quot;&gt;Light Button&lt;/a&gt; &lt;a class=&quot;large mybutton color&quot;&gt;Color Button&lt;/a&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;Highlight Button&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Use Font Awesome to create more Awesome buttons:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;large mybutton light&quot;&gt;&lt;i class=&quot;icon-stethoscope&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Schedule an appointment&lt;/a&gt; &lt;a class=&quot;large mybutton color&quot;&gt;&lt;i class=&quot;icon-ambulance&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Emergency Details&lt;/a&gt; &lt;a class=&quot;large mybutton highlight&quot;&gt;&lt;i class=&quot;icon-medkit&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Interns List&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Home</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/"/>
+		<published>2011-05-02T08:49:24+00:00</published>
+		<updated>2011-05-02T08:49:24+00:00</updated>
+		<id>http://www.dhtheme.com/medica/</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;div class=&quot;section group&quot;&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;a&gt;&lt;i class=&quot; icon-hospital icon-4x&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 style=&quot;text-align: center;&quot;&gt;Ultra Modern Hospital&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+&lt;p&gt;&lt;a class=&quot;medium mybutton light&quot;&gt;More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;a&gt;&lt;i class=&quot; icon-stethoscope icon-4x&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 style=&quot;text-align: center;&quot;&gt;Proven Specialists&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+&lt;p&gt;&lt;a class=&quot;medium mybutton light&quot;&gt;More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;a&gt;&lt;i class=&quot; icon-ambulance icon-4x&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Top ER Department&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+&lt;p&gt;&lt;a class=&quot;medium mybutton color&quot;&gt;More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;div class=&quot;section group&quot;&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;a&gt;&lt;i class=&quot; icon-hospital icon-4x&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 style=&quot;text-align: center;&quot;&gt;Ultra Modern Hospital&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+&lt;p&gt;&lt;a class=&quot;medium mybutton light&quot;&gt;More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;a&gt;&lt;i class=&quot; icon-stethoscope icon-4x&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 style=&quot;text-align: center;&quot;&gt;Proven Specialists&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+&lt;p&gt;&lt;a class=&quot;medium mybutton light&quot;&gt;More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;col span_1_of_3&quot; style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;&lt;a&gt;&lt;i class=&quot; icon-ambulance icon-4x&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Top ER Department&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+&lt;p&gt;&lt;a class=&quot;medium mybutton color&quot;&gt;More&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Features</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/features"/>
+		<published>2011-05-02T08:48:41+00:00</published>
+		<updated>2011-05-02T08:48:41+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/features</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This theme utilizes the latest features of the fast and slick Warp theme framework. It comes with a broad range of layout and &lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=1&amp;amp;Itemid=103&quot;&gt;module variations&lt;/a&gt; as well as a neat &lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=4&amp;amp;Itemid=104&quot;&gt;typography&lt;/a&gt; to style your content. Read on to learn more about this theme and its features:&lt;/p&gt;
+&lt;ul class=&quot;check&quot;&gt;
+&lt;li&gt;Choose from 20 colors and 11 fonts&lt;/li&gt;
+&lt;li&gt;7 module style variations combinable with 4 badges and all Font Awesome icons&lt;/li&gt;
+&lt;li&gt;Flexible template and column widths&lt;/li&gt;
+&lt;li&gt;All Warp framework features are available&lt;/li&gt;
+&lt;li&gt;Full-width module position&lt;/li&gt;
+&lt;li&gt;Revolution Slider&lt;/li&gt;
+&lt;li&gt;Widgetkit&lt;/li&gt;
+&lt;li&gt;Roksproket&lt;/li&gt;
+&lt;li&gt;Pricing Tables&lt;/li&gt;
+&lt;li&gt;and more!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Theme Layout&lt;/h2&gt;
+&lt;p&gt;This theme comes with the default Warp6 module layout. The blue module positions allow to choose a module layout which defines the module alignment and proportions: &lt;em&gt;equal&lt;/em&gt;, &lt;em&gt;double&lt;/em&gt; or &lt;em&gt;stack&lt;/em&gt;. You can easily add your own module layouts. The two available sidebars, highlighted in red, can be switched to the left or right side and their widths can easily be set in the theme administration. For modules in the blue and red positions you can choose different module styles. Take a look at the &lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=1&amp;amp;Itemid=103&quot;&gt;module variations&lt;/a&gt; page to get an overview.&lt;/p&gt;
+&lt;div class=&quot;grid-block grid-gutter&quot;&gt;
+&lt;div class=&quot;grid-box width50&quot;&gt;
+&lt;figure class=&quot;remove-margin&quot;&gt;&lt;img class=&quot;size-auto&quot; src=&quot;images/Demo/features_module_positions.png&quot; alt=&quot;Module Positions&quot; title=&quot;Module Positions&quot; height=&quot;414&quot; width=&quot;300&quot; /&gt; &lt;figcaption&gt;Module Positions&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;div class=&quot;grid-box width50&quot;&gt;
+&lt;figure class=&quot;remove-margin-t&quot;&gt;&lt;img class=&quot;size-auto&quot; src=&quot;images/Demo/features_module_layouts.png&quot; alt=&quot;Module Layouts&quot; title=&quot;Module Layouts&quot; height=&quot;202&quot; width=&quot;300&quot; /&gt; &lt;figcaption&gt;Module Layouts&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;remove-margin-b&quot;&gt;&lt;img class=&quot;size-auto&quot; src=&quot;images/Demo/features_column_layouts.png&quot; alt=&quot;Colum Layouts&quot; title=&quot;Column Layouts&quot; height=&quot;172&quot; width=&quot;300&quot; /&gt; &lt;figcaption&gt;Column Layouts&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;This theme utilizes the latest features of the fast and slick Warp theme framework. It comes with a broad range of layout and &lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=1&amp;amp;Itemid=103&quot;&gt;module variations&lt;/a&gt; as well as a neat &lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=4&amp;amp;Itemid=104&quot;&gt;typography&lt;/a&gt; to style your content. Read on to learn more about this theme and its features:&lt;/p&gt;
+&lt;ul class=&quot;check&quot;&gt;
+&lt;li&gt;Choose from 20 colors and 11 fonts&lt;/li&gt;
+&lt;li&gt;7 module style variations combinable with 4 badges and all Font Awesome icons&lt;/li&gt;
+&lt;li&gt;Flexible template and column widths&lt;/li&gt;
+&lt;li&gt;All Warp framework features are available&lt;/li&gt;
+&lt;li&gt;Full-width module position&lt;/li&gt;
+&lt;li&gt;Revolution Slider&lt;/li&gt;
+&lt;li&gt;Widgetkit&lt;/li&gt;
+&lt;li&gt;Roksproket&lt;/li&gt;
+&lt;li&gt;Pricing Tables&lt;/li&gt;
+&lt;li&gt;and more!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Theme Layout&lt;/h2&gt;
+&lt;p&gt;This theme comes with the default Warp6 module layout. The blue module positions allow to choose a module layout which defines the module alignment and proportions: &lt;em&gt;equal&lt;/em&gt;, &lt;em&gt;double&lt;/em&gt; or &lt;em&gt;stack&lt;/em&gt;. You can easily add your own module layouts. The two available sidebars, highlighted in red, can be switched to the left or right side and their widths can easily be set in the theme administration. For modules in the blue and red positions you can choose different module styles. Take a look at the &lt;a href=&quot;index.php?option=com_content&amp;amp;view=article&amp;amp;id=1&amp;amp;Itemid=103&quot;&gt;module variations&lt;/a&gt; page to get an overview.&lt;/p&gt;
+&lt;div class=&quot;grid-block grid-gutter&quot;&gt;
+&lt;div class=&quot;grid-box width50&quot;&gt;
+&lt;figure class=&quot;remove-margin&quot;&gt;&lt;img class=&quot;size-auto&quot; src=&quot;images/Demo/features_module_positions.png&quot; alt=&quot;Module Positions&quot; title=&quot;Module Positions&quot; height=&quot;414&quot; width=&quot;300&quot; /&gt; &lt;figcaption&gt;Module Positions&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;div class=&quot;grid-box width50&quot;&gt;
+&lt;figure class=&quot;remove-margin-t&quot;&gt;&lt;img class=&quot;size-auto&quot; src=&quot;images/Demo/features_module_layouts.png&quot; alt=&quot;Module Layouts&quot; title=&quot;Module Layouts&quot; height=&quot;202&quot; width=&quot;300&quot; /&gt; &lt;figcaption&gt;Module Layouts&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;remove-margin-b&quot;&gt;&lt;img class=&quot;size-auto&quot; src=&quot;images/Demo/features_column_layouts.png&quot; alt=&quot;Colum Layouts&quot; title=&quot;Column Layouts&quot; height=&quot;172&quot; width=&quot;300&quot; /&gt; &lt;figcaption&gt;Column Layouts&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Dummy Content</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/accordion-b/level-21"/>
+		<published>2011-05-02T08:48:08+00:00</published>
+		<updated>2011-05-02T08:48:08+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/accordion-b/level-21</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Typography</title>
+		<link rel="alternate" type="text/html" href="http://www.dhtheme.com/medica/index.php/features/typography"/>
+		<published>2011-05-02T08:47:45+00:00</published>
+		<updated>2011-05-02T08:47:45+00:00</updated>
+		<id>http://www.dhtheme.com/medica/index.php/features/typography</id>
+		<author>
+			<name>Super User</name>
+			<email>hpnotiq@abv.bg</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;You can create some beautiful content by using some simple HTML elements. The Warp theme framework offers some neat styles for all HTML elements and a great set of CSS classes to style your content. Basic HTML is very easy to learn and this small guide shows you how to use all styles provided by the Warp framework.&lt;/p&gt;
+&lt;h2&gt;Basic HTML Elements&lt;/h2&gt;
+&lt;p&gt;Here is a short demonstration of text-level semanticts. The &amp;lt;p&amp;gt; element creates a new paragraph. It will have some space before and after itself. To turn your text into hypertext just use the &lt;a href=&quot;#&quot;&gt;&amp;lt;a&amp;gt; element&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Text-Level Semantics&lt;/h3&gt;
+&lt;p&gt;You can emphasize text using the &lt;em&gt;&amp;lt;em&amp;gt; element&lt;/em&gt; or to imply any extra importance the &lt;strong&gt;&amp;lt;strong&amp;gt; element&lt;/strong&gt;. Highlight text with no semantic meaning using the &lt;mark&gt;&amp;lt;mark&amp;gt; element&lt;/mark&gt;. Markup document changes like inserted or deleted text with the &lt;del&gt;&amp;lt;del&amp;gt; element&lt;/del&gt; or &lt;ins&gt;&amp;lt;ins&amp;gt; element&lt;/ins&gt;. To define an abbreviation use the &lt;abbr title=&quot;Abbreviation Element&quot;&gt;&amp;lt;abbr&amp;gt; element&lt;/abbr&gt; and to define a definition term use the &lt;dfn title=&quot;Defines a definition term&quot;&gt;&amp;lt;dfn&amp;gt; element&lt;/dfn&gt;.&lt;/p&gt;
+&lt;h3&gt;Short List with Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.graphicriver.net&quot; target=&quot;_blank&quot;&gt;GraphicRiver&lt;/a&gt; - Design Templates, Photoshop Brushes, and Stock Vectors&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.themeforest.net/warp&quot; target=&quot;_blank&quot;&gt;ThemeForest&lt;/a&gt; - Premium WordPress Themes, Web Templates, Mobile Themes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.photodune.net/zoo&quot; target=&quot;_blank&quot;&gt;PhotoDune&lt;/a&gt; - High Quality Royalty-Free Stock Photography From $1 - Stock Photo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Quotations and Code&lt;/h3&gt;
+&lt;p&gt;Inline quotations can be defined by using the &lt;q&gt;&lt; blockquote &gt; element&lt;/q&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;span style=&quot;color: #383838;&quot;&gt;Put your quotations here or highlight your text!&lt;/span&gt;&lt;/blockquote&gt;
+&lt;p&gt;To define a short inline computer code use the &lt;code&gt;&amp;lt;code&amp;gt; element&lt;/code&gt;. For a larger code snippet use the &amp;lt;pre&amp;gt; element which defines preformatted text. It creates a new text block which preserves both spaces and line breaks.&lt;/p&gt;
+&lt;pre&gt;pre {
+    margin: 15px 0;
+    padding: 10px;
+    font-family: &quot;Courier New&quot;, Courier, monospace;
+    font-size: 12px;
+    line-height: 18px;
+    white-space: pre-wrap;
+}
+&lt;/pre&gt;
+&lt;p&gt;&lt;small&gt;Use the &amp;lt;small&amp;gt; element for side comments and small print.&lt;/small&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Useful CSS Classes&lt;/h2&gt;
+&lt;p&gt;Here is a short demonstration of all style related CSS classes provided by the Warp framework.&lt;/p&gt;
+&lt;h3&gt;Highlight Content&lt;/h3&gt;
+&lt;p class=&quot;dropcap&quot;&gt;Drop caps are the first letter of a paragraph which are displayed bigger than the rest of the text. You can create a drop cap using the CSS class &lt;code&gt;dropcap&lt;/code&gt;. To emphasize text with some small boxes use &lt;em class=&quot;box&quot;&gt;&amp;lt;em&amp;gt; element&lt;/em&gt; with the CSS class &lt;code&gt;box&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&quot;box-content&quot;&gt;This simple box is intended to group large parts of your content using the CSS class &lt;code&gt;box-content&lt;/code&gt;.&lt;/div&gt;
+&lt;div class=&quot;box-note&quot;&gt;This is a simple box to highlight some text using the CSS class &lt;code&gt;box-note&lt;/code&gt;.&lt;/div&gt;
+&lt;div class=&quot;box-info&quot;&gt;This is a simple box with useful information using the CSS class &lt;code&gt;box-info&lt;/code&gt;.&lt;/div&gt;
+&lt;div class=&quot;box-warning&quot;&gt;This is a simple box with important notes and warnings using the CSS class &lt;code&gt;box-warning&lt;/code&gt;.&lt;/div&gt;
+&lt;div class=&quot;box-hint&quot;&gt;This is a simple box with additional hints using the CSS class &lt;code&gt;box-hint&lt;/code&gt;.&lt;/div&gt;
+&lt;div class=&quot;box-download&quot;&gt;This is a simple box with download information using the CSS class &lt;code&gt;box-download&lt;/code&gt;.&lt;/div&gt;
+&lt;p&gt;Use the CSS class &lt;code&gt;dotted&lt;/code&gt; to create a dotted horizontal rule.&lt;/p&gt;
+&lt;hr class=&quot;dotted&quot; /&gt;
+&lt;h3&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Create a zebra stripped table using using the CSS class &lt;code&gt;zebra&lt;/code&gt;.&lt;/p&gt;
+&lt;table class=&quot;zebra&quot;&gt;&lt;caption&gt;Table caption&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;th&gt;Table Heading&lt;/th&gt;&lt;th&gt;Table Heading&lt;/th&gt;&lt;th class=&quot;center&quot;&gt;Table Heading&lt;/th&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+&lt;td&gt;Table Footer&lt;/td&gt;
+&lt;td&gt;Table Footer&lt;/td&gt;
+&lt;td class=&quot;center&quot;&gt;Table Footer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;odd&quot;&gt;
+&lt;td&gt;Table Data&lt;/td&gt;
+&lt;td&gt;Table Data&lt;/td&gt;
+&lt;td class=&quot;center&quot;&gt;Data Centered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;bold&quot;&gt;Data Bold&lt;/td&gt;
+&lt;td&gt;Table Data&lt;/td&gt;
+&lt;td class=&quot;center&quot;&gt;Data Centered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;odd&quot;&gt;
+&lt;td&gt;Table Data&lt;/td&gt;
+&lt;td&gt;Table Data&lt;/td&gt;
+&lt;td class=&quot;center&quot;&gt;Data Centered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Definition Lists&lt;/h3&gt;
+&lt;p&gt;Create a nice looking definition list separated with a line by using the CSS class &lt;code&gt;separator&lt;/code&gt;.&lt;/p&gt;
+&lt;dl class=&quot;separator&quot;&gt;&lt;dt&gt;Definition List&lt;/dt&gt;&lt;dd&gt;A definition list is a list of terms and corresponding definitions. To create a definition list use the &amp;lt;dl&amp;gt; element in conjunction with &amp;lt;dt&amp;gt; to define the definition term and &amp;lt;dd&amp;gt; to define the definition description.&lt;/dd&gt;&lt;dt&gt;Definition Term&lt;/dt&gt;&lt;dd&gt;This is a definition description.&lt;/dd&gt;&lt;dt&gt;Definition Term&lt;/dt&gt;&lt;dd&gt;This is a definition description.&lt;/dd&gt;&lt;dd&gt;This is another definition description.&lt;/dd&gt;&lt;/dl&gt;
+&lt;h3&gt;Forms&lt;/h3&gt;
+&lt;p&gt;Create a clearly arranged form layout with fieldset boxes using the CSS class &lt;code&gt;box&lt;/code&gt;.&lt;/p&gt;
+&lt;form action=&quot;#&quot; class=&quot;box style&quot;&gt;&lt;fieldset&gt;&lt;legend&gt;Form legend&lt;/legend&gt;
+&lt;div&gt;&lt;label for=&quot;f1&quot;&gt;Text input:&lt;/label&gt; &lt;input value=&quot;input text&quot; id=&quot;f1&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&quot;f2&quot;&gt;Radio input:&lt;/label&gt; &lt;input id=&quot;f2&quot; type=&quot;radio&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&quot;f3&quot;&gt;Checkbox input:&lt;/label&gt; &lt;input id=&quot;f3&quot; type=&quot;checkbox&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&quot;f4&quot;&gt;Select field:&lt;/label&gt;&lt;select id=&quot;f4&quot;&gt;&lt;option&gt;Option 01&lt;/option&gt;&lt;option&gt;Option 02&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&quot;f5&quot;&gt;Textarea:&lt;/label&gt;&lt;br /&gt;&lt;textarea rows=&quot;5&quot; cols=&quot;30&quot; id=&quot;f5&quot;&gt;Textarea text&lt;/textarea&gt;&lt;/div&gt;
+&lt;/fieldset&gt;&lt;button&gt;Button&lt;/button&gt; &lt;input value=&quot;Input Button&quot; type=&quot;button&quot; /&gt;&lt;/form&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;You can create some beautiful content by using some simple HTML elements. The Warp theme framework offers some neat styles for all HTML elements and a great set of CSS classes to style your content. Basic HTML is very easy to learn and this small guide shows you how to use all styles provided by the Warp framework.&lt;/p&gt;
+&lt;h2&gt;Basic HTML Elements&lt;/h2&gt;
+&lt;p&gt;Here is a short demonstration of text-level semanticts. The &amp;lt;p&amp;gt; element creates a new paragraph. It will have some space before and after itself. To turn your text into hypertext just use the &lt;a href=&quot;#&quot;&gt;&amp;lt;a&amp;gt; element&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Text-Level Semantics&lt;/h3&gt;
+&lt;p&gt;You can emphasize text using the &lt;em&gt;&amp;lt;em&amp;gt; element&lt;/em&gt; or to imply any extra importance the &lt;strong&gt;&amp;lt;strong&amp;gt; element&lt;/strong&gt;. Highlight text with no semantic meaning using the &lt;mark&gt;&amp;lt;mark&amp;gt; element&lt;/mark&gt;. Markup document changes like inserted or deleted text with the &lt;del&gt;&amp;lt;del&amp;gt; element&lt;/del&gt; or &lt;ins&gt;&amp;lt;ins&amp;gt; element&lt;/ins&gt;. To define an abbreviation use the &lt;abbr title=&quot;Abbreviation Element&quot;&gt;&amp;lt;abbr&amp;gt; element&lt;/abbr&gt; and to define a definition term use the &lt;dfn title=&quot;Defines a definition term&quot;&gt;&amp;lt;dfn&amp;gt; element&lt;/dfn&gt;.&lt;/p&gt;
+&lt;h3&gt;Short List with Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.graphicriver.net&quot; target=&quot;_blank&quot;&gt;GraphicRiver&lt;/a&gt; - Design Templates, Photoshop Brushes, and Stock Vectors&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.themeforest.net/warp&quot; target=&quot;_blank&quot;&gt;ThemeForest&lt;/a&gt; - Premium WordPress Themes, Web Templates, Mobile Themes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.photodune.net/zoo&quot; target=&quot;_blank&quot;&gt;PhotoDune&lt;/a&gt; - High Quality Royalty-Free Stock Photography From $1 - Stock Photo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Quotations and Code&lt;/h3&gt;
+&lt;p&gt;Inline quotations can be defined by using the &lt;q&gt;&lt; blockquote &gt; element&lt;/q&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;span style=&quot;color: #383838;&quot;&gt;Put your quotations here or highlight your text!&lt;/span&gt;&lt;/blockquote&gt;
+&lt;p&gt;To define a short inline computer code use the &lt;code&gt;&amp;lt;code&amp;gt; element&lt;/code&gt;. For a larger code snippet use the &amp;lt;pre&amp;gt; element which defines preformatted text. It creates a new text block which preserves both spaces and line breaks.&lt;/p&gt;
+&lt;pre&gt;pre {
+    margin: 15px 0;
+    padding: 10px;
+    font-family: &quot;Courier New&quot;, Courier, monospace;
+    font-size: 12px;
+    line-height: 18px;
+    white-space: pre-wrap;
+}
+&lt;/pre&gt;
+&lt;p&gt;&lt;small&gt;Use the &amp;lt;small&amp;gt; element for side comments and small print.&lt;/small&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Useful CSS Classes&lt;/h2&gt;
+&lt;p&gt;Here is a short demonstration of all style related CSS classes provided by the Warp framework.&lt;/p&gt;
+&lt;h3&gt;Highlight Content&lt;/h3&gt;
+&lt;p class=&quot;dropcap&quot;&gt;Drop caps are the first letter of a paragraph which are displayed bigger than the rest of the text. You can create a drop cap using the CSS class &lt;code&gt;dropcap&lt;/code&gt;. To emphasize text with some small boxes use &lt;em class=&quot;box&quot;&gt;&amp;lt;em&amp;gt; element&lt;/em&gt; with the CSS class &lt;code&gt;box&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&quot;box-content&quot;&gt;This simple box is intended to group large parts of your content using the CSS class &lt;code&gt;box-content&lt;/code&gt;.&lt;/div&gt;
+&lt;div class=&quot;box-note&quot;&gt;This is a simple box to highlight some text using the CSS class &lt;code&gt;box-note&lt;/code&gt;.&lt;/div&gt;
+&lt;div class=&quot;box-info&quot;&gt;This is a simple box with useful information using the CSS class &lt;code&gt;box-info&lt;/code&gt;.&lt;/div&gt;
+&lt;div class=&quot;box-warning&quot;&gt;This is a simple box with important notes and warnings using the CSS class &lt;code&gt;box-warning&lt;/code&gt;.&lt;/div&gt;
+&lt;div class=&quot;box-hint&quot;&gt;This is a simple box with additional hints using the CSS class &lt;code&gt;box-hint&lt;/code&gt;.&lt;/div&gt;
+&lt;div class=&quot;box-download&quot;&gt;This is a simple box with download information using the CSS class &lt;code&gt;box-download&lt;/code&gt;.&lt;/div&gt;
+&lt;p&gt;Use the CSS class &lt;code&gt;dotted&lt;/code&gt; to create a dotted horizontal rule.&lt;/p&gt;
+&lt;hr class=&quot;dotted&quot; /&gt;
+&lt;h3&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Create a zebra stripped table using using the CSS class &lt;code&gt;zebra&lt;/code&gt;.&lt;/p&gt;
+&lt;table class=&quot;zebra&quot;&gt;&lt;caption&gt;Table caption&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;th&gt;Table Heading&lt;/th&gt;&lt;th&gt;Table Heading&lt;/th&gt;&lt;th class=&quot;center&quot;&gt;Table Heading&lt;/th&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+&lt;td&gt;Table Footer&lt;/td&gt;
+&lt;td&gt;Table Footer&lt;/td&gt;
+&lt;td class=&quot;center&quot;&gt;Table Footer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;odd&quot;&gt;
+&lt;td&gt;Table Data&lt;/td&gt;
+&lt;td&gt;Table Data&lt;/td&gt;
+&lt;td class=&quot;center&quot;&gt;Data Centered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;bold&quot;&gt;Data Bold&lt;/td&gt;
+&lt;td&gt;Table Data&lt;/td&gt;
+&lt;td class=&quot;center&quot;&gt;Data Centered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;odd&quot;&gt;
+&lt;td&gt;Table Data&lt;/td&gt;
+&lt;td&gt;Table Data&lt;/td&gt;
+&lt;td class=&quot;center&quot;&gt;Data Centered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Definition Lists&lt;/h3&gt;
+&lt;p&gt;Create a nice looking definition list separated with a line by using the CSS class &lt;code&gt;separator&lt;/code&gt;.&lt;/p&gt;
+&lt;dl class=&quot;separator&quot;&gt;&lt;dt&gt;Definition List&lt;/dt&gt;&lt;dd&gt;A definition list is a list of terms and corresponding definitions. To create a definition list use the &amp;lt;dl&amp;gt; element in conjunction with &amp;lt;dt&amp;gt; to define the definition term and &amp;lt;dd&amp;gt; to define the definition description.&lt;/dd&gt;&lt;dt&gt;Definition Term&lt;/dt&gt;&lt;dd&gt;This is a definition description.&lt;/dd&gt;&lt;dt&gt;Definition Term&lt;/dt&gt;&lt;dd&gt;This is a definition description.&lt;/dd&gt;&lt;dd&gt;This is another definition description.&lt;/dd&gt;&lt;/dl&gt;
+&lt;h3&gt;Forms&lt;/h3&gt;
+&lt;p&gt;Create a clearly arranged form layout with fieldset boxes using the CSS class &lt;code&gt;box&lt;/code&gt;.&lt;/p&gt;
+&lt;form action=&quot;#&quot; class=&quot;box style&quot;&gt;&lt;fieldset&gt;&lt;legend&gt;Form legend&lt;/legend&gt;
+&lt;div&gt;&lt;label for=&quot;f1&quot;&gt;Text input:&lt;/label&gt; &lt;input value=&quot;input text&quot; id=&quot;f1&quot; type=&quot;text&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&quot;f2&quot;&gt;Radio input:&lt;/label&gt; &lt;input id=&quot;f2&quot; type=&quot;radio&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&quot;f3&quot;&gt;Checkbox input:&lt;/label&gt; &lt;input id=&quot;f3&quot; type=&quot;checkbox&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&quot;f4&quot;&gt;Select field:&lt;/label&gt;&lt;select id=&quot;f4&quot;&gt;&lt;option&gt;Option 01&lt;/option&gt;&lt;option&gt;Option 02&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&quot;f5&quot;&gt;Textarea:&lt;/label&gt;&lt;br /&gt;&lt;textarea rows=&quot;5&quot; cols=&quot;30&quot; id=&quot;f5&quot;&gt;Textarea text&lt;/textarea&gt;&lt;/div&gt;
+&lt;/fieldset&gt;&lt;button&gt;Button&lt;/button&gt; &lt;input value=&quot;Input Button&quot; type=&quot;button&quot; /&gt;&lt;/form&gt;&lt;/div&gt;</content>
+		<category term="Uncategorised" />
+	</entry>
+</feed>

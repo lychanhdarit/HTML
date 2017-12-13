@@ -1,0 +1,280 @@
+/* Copyright (C) YOOtheme GmbH, http://www.gnu.org/licenses/gpl.html GNU/GPL */
+
+/*
+ * Style Style Sheet - Defines the main look like colors and backgrounds
+ * Not all style related CSS is included, only colors and backgrounds which may change for different theme styles
+ */
+
+
+/* Base
+----------------------------------------------------------------------------------------------------*/
+a:hover,
+em, code {
+        color: #6f8857;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+/* Layout
+----------------------------------------------------------------------------------------------------*/
+#block-header {
+	background: #afbf9f;
+	box-shadow: 0 1px 0 rgba(255,255,255,0.05) inset;
+}
+
+
+
+/* Menus
+----------------------------------------------------------------------------------------------------*/
+/* Link */
+.mod-color .menu-sidebar a,
+.mod-color .menu-sidebar li > span {
+        color: #586e42;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+/* Hover */
+.mod-color .menu-sidebar a:hover,
+.mod-color .menu-sidebar li > span:hover {
+        color: #fff;
+        -moz-transition: all 0.2s ease-in-out;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+}
+
+/* Set Hover */
+.menu-dropdown li.level1:hover .level1,
+.menu-dropdown li.remain .level1 { 
+    color: #444;
+    background-color:#f7f7f7;
+  -moz-box-shadow: 0px -4px 0px 0px rgba(123,145,101,1) inset;
+  -webkit-box-shadow: 0px -4px 0px 0px rgba(123,145,101,1) inset;
+  box-shadow: 0px -4px 0px 0px rgba(123,145,101,1) inset;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+
+/* Level 1 */
+.menu-sidebar li.level1 { border-top: 1px solid #6f8857; }
+
+/* Modules
+----------------------------------------------------------------------------------------------------*/
+/* Module Type: Dark
+----------------------------------------------------------------------------------------------------*/
+
+.mod-dark {
+	padding: 15px;
+	border: 1px solid #6f8857;
+        border-radius: 8px;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        color: #ffffff;
+	background: #6f8857;
+}
+
+/* Module Type: Color
+----------------------------------------------------------------------------------------------------*/
+
+.mod-color {
+	padding: 15px;
+	border: 1px solid #6f8857;
+        border-radius: 8px;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        color: #ffffff;
+	background: #afbf9f;
+}
+
+.mod-color .module-title {
+        margin-top: -25px;
+        line-height: 22px;
+        text-align: center;
+        color: #fff;
+        background-color:#6f8857;
+        padding: 5px;
+        border-bottom: none;
+        -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+}
+
+/* Tools
+----------------------------------------------------------------------------------------------------*/
+	.color.mybutton, .color.mybutton:visited { 
+        display:inline-block;
+        background-color:#afbf9f;
+        border-bottom: none;
+        border-radius: 4px;
+        -moz-box-shadow: 0px -3px 0px 0px rgba(0,0,0,0.2) inset;
+        -webkit-box-shadow: 0px -3px 0px 0px rgba(0,0,0,0.2) inset;
+        box-shadow: 0px -3px 0px 0px rgba(0,0,0,0.2) inset;
+}
+	.color.mybutton:hover {
+        background-color:#6f8857;
+}
+
+/* System
+----------------------------------------------------------------------------------------------------*/
+
+/* Custom Stuff
+----------------------------------------------------------------------------------------------------*/
+/* Custom Stuff
+----------------------------------------------------------------------------------------------------*/
+
+/* Mosaic - Content */
+.sprocket-mosaic-container {margin: 0;padding: 0;list-style: none;}
+.sprocket-mosaic-container li {display: inline-block; }
+.sprocket-readmore {display:none; }
+.sprocket-readmore:hover {opacity: 1;background-position: 0 -99px;}
+
+/* Mosaic - Item */
+.sprocket-mosaic-item {
+    background: none;
+    border: none;
+}
+
+/* Mosaic - Order */
+.sprocket-mosaic .sprocket-mosaic-header .sprocket-mosaic-order {float: right; padding-right: 10px;}
+
+/* Mosaic - Filter */
+.sprocket-mosaic .sprocket-mosaic-header .sprocket-mosaic-filter {float: left; padding-left: 10px;}
+
+
+#main .sprocket-mosaic .sprocket-mosaic-order ul li, #main .sprocket-mosaic .sprocket-mosaic-order ul li, .sprocket-mosaic .sprocket-mosaic-order li, #main .sprocket-mosaic .sprocket-mosaic-filter ul li, #main .sprocket-mosaic .sprocket-mosaic-filter ul li, .sprocket-mosaic .sprocket-mosaic-filter li, .sprocket-mosaic .sprocket-mosaic-filter li {
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    font-size: 12px;
+    margin: 0;
+    padding: 5px 10px;
+   -moz-box-shadow: 0px -2px 0px 0px rgba(0,0,0,0.2) inset;
+   -webkit-box-shadow: 0px -2px 0px 0px rgba(0,0,0,0.2) inset;
+   box-shadow: 0px -2px 0px 0px rgba(0,0,0,0.2) inset;
+}
+
+.sprocket-mosaic .sprocket-mosaic-filter li:hover, .sprocket-mosaic .sprocket-mosaic-order li:hover, .sprocket-mosaic-loadmore:hover {
+    color: #fff; background: #505050;  border: 1px solid #505050; transition: all 0.3s ease-in-out 0s;
+}
+
+.sprocket-mosaic-item .sprocket-mosaic-text {
+    display: block;
+    margin: 10px 0;
+    text-align: center;
+} 
+
+.sprocket-mosaic .sprocket-mosaic-tags, #main .sprocket-mosaic ul.sprocket-mosaic-tags {margin: 10px -10px -10px; padding: 5px;background: none;border-radius: 8px;font-size: 90%;font-weight: bold;}
+/*.sprocket-mosaic .sprocket-mosaic-tags li, #main .sprocket-mosaic ul.sprocket-mosaic-tags li {width: auto;margin-right: 1px;padding: 0 5px;background: none;border: 1px solid #ddd;border-radius: 0}*/
+.sprocket-mosaic .sprocket-mosaic-tags li, #main .sprocket-mosaic ul.sprocket-mosaic-tags li {display: none;width: auto;margin-right: 1px;padding: 0 5px;background: none;border-radius: 8px;border: 1px solid #ddd;}
+
+.sprocket-mosaic .sprocket-mosaic-item .sprocket-mosaic-image-container img {
+   border-top-left-radius: 8px;
+   border-top-right-radius: 8px;
+   -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+   -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+   box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+   -webkit-transition: all 0.2s linear;
+   -moz-transition: all 0.2s linear;
+   -o-transition: all 0.2s linear;
+   -ms-transition: all 0.2s linear;
+   transition: all 0.2s linear;
+}
+
+.sprocket-mosaic .sprocket-mosaic-item .sprocket-mosaic-image-container img:hover {
+    opacity: 0.7;
+   -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0.7)";  
+    
+}
+
+.sprocket-mosaic-hover {display: none;}
+.sprocket-mosaic-hovercontent { width: 50px; height: 50px; top: 0; right: 0; background: url(../images/more.html) 50% 50% no-repeat; }
+.sprocket-mosaic-hovercontent:hover { background: url(../images/more2.html) 50% 50% no-repeat; }
+
+
+.sprocket-mosaic-item  .sprocket-mosaic-title, .sprocket-mosaic-item .sprocket-mosaic-info {
+    background: #fff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    font-size: 16px;
+    margin-top: -10px;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+    -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+    box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+   -webkit-transition: all 0.2s linear;
+   -moz-transition: all 0.2s linear;
+   -o-transition: all 0.2s linear;
+   -ms-transition: all 0.2s linear;
+   transition: all 0.2s linear;
+} 
+
+.sprocket-mosaic-item  .sprocket-mosaic-title:hover {
+    -moz-box-shadow: 0px -4px 0px 0px rgba(221,85,95,1) inset;
+    -webkit-box-shadow: 0px -4px 0px 0px rgba(221,85,95,1) inset;
+    box-shadow: 0px -4px 0px 0px rgba(221,85,95,1) inset;
+   -webkit-transition: all 0.2s linear;
+   -moz-transition: all 0.2s linear;
+   -o-transition: all 0.2s linear;
+   -ms-transition: all 0.2s linear;
+   transition: all 0.2s linear;
+}
+
+.sprocket-mosaic-item  .sprocket-mosaic-title a {
+    color: #fff !important;
+}
+.sprocket-mosaic-loadmore {background: #fafafa;border: 1px solid #d3d3d3;cursor: pointer;-moz-border-radius: 0;-webkit-border-radius: 0;border-radius: 0;}
+
+.sprocket-lists-title {
+    border: none;
+    border-radius: 8px;
+    background: #757575;
+    padding: 10px 10px !important;
+    color: #fff;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+    -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+    box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+ }
+    
+.active .sprocket-lists-title {
+     color: #fff;
+     background: #505050;
+}
+
+.sprocket-lists-title:hover {
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    background: #505050;
+    -moz-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+    -webkit-box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+    box-shadow: 0px -4px 0px 0px rgba(0,0,0,0.2) inset;
+}
+.sprocket-lists-title .indicator {position: absolute;top: 50%;right: 10px;margin-top: -9px;display: block;width: 18px;height: 18px;border-radius: 0;opacity: 0.7;cursor: pointer;color: #444;text-align: center; border: none; background: #bbb;}
+.active .indicator {color: #444; border: none; background: #fff;}
+
+.sprocket-lists-item {display: block;position: relative; margin-top: 5px;}

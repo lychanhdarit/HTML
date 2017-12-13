@@ -1,0 +1,10 @@
+E:\TL Stuff\GoogleReCaptcha\GoogleReCaptcha\bin\Debug\GoogleReCaptcha.dll
+E:\TL Stuff\GoogleReCaptcha\GoogleReCaptcha\bin\Debug\GoogleReCaptcha.pdb
+E:\TL Stuff\GoogleReCaptcha\GoogleReCaptcha\obj\Debug\ResolveAssemblyReference.cache
+E:\TL Stuff\GoogleReCaptcha\GoogleReCaptcha\obj\Debug\GoogleReCaptcha.dll
+E:\TL Stuff\GoogleReCaptcha\GoogleReCaptcha\obj\Debug\GoogleReCaptcha.pdb
+D:\GoogleCaptcha\GoogleReCaptcha\GoogleReCaptcha\bin\Debug\GoogleReCaptcha.dll
+D:\GoogleCaptcha\GoogleReCaptcha\GoogleReCaptcha\bin\Debug\GoogleReCaptcha.pdb
+D:\GoogleCaptcha\GoogleReCaptcha\GoogleReCaptcha\obj\Debug\GoogleReCaptcha.csprojResolveAssemblyReference.cache
+D:\GoogleCaptcha\GoogleReCaptcha\GoogleReCaptcha\obj\Debug\GoogleReCaptcha.dll
+D:\GoogleCaptcha\GoogleReCaptcha\GoogleReCaptcha\obj\Debug\GoogleReCaptcha.pdb

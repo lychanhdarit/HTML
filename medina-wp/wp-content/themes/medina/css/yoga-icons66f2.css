@@ -1,0 +1,327 @@
+@font-face {
+  font-family: 'yoga-icons';
+  src:  url('../fonts/yoga-icons8da8.eot?vyogdt');
+  src:  url('../fonts/yoga-icons8da8.eot?vyogdt#iefix') format('embedded-opentype'),
+    url('../fonts/yoga-icons8da8.ttf?vyogdt') format('truetype'),
+    url('../fonts/yoga-icons8da8.woff?vyogdt') format('woff'),
+    url('../fonts/yoga-icons8da8.svg?vyogdt#yoga-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="yoga-icon-"], [class*=" yoga-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'yoga-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.yoga-icon-beauty:before {
+  content: "\e900";
+}
+.yoga-icon-bicycle:before {
+  content: "\e901";
+}
+.yoga-icon-body-treatments:before {
+  content: "\e902";
+}
+.yoga-icon-breath-control:before {
+  content: "\e903";
+}
+.yoga-icon-calendar:before {
+  content: "\e904";
+}
+.yoga-icon-capsule:before {
+  content: "\e905";
+}
+.yoga-icon-chair-for-treatments:before {
+  content: "\e906";
+}
+.yoga-icon-count-calories:before {
+  content: "\e907";
+}
+.yoga-icon-dancer:before {
+  content: "\e908";
+}
+.yoga-icon-diet:before {
+  content: "\e909";
+}
+.yoga-icon-drink-water:before {
+  content: "\e90a";
+}
+.yoga-icon-emotional:before {
+  content: "\e90b";
+}
+.yoga-icon-environmental:before {
+  content: "\e90c";
+}
+.yoga-icon-exercise:before {
+  content: "\e90d";
+}
+.yoga-icon-exercising:before {
+  content: "\e90e";
+}
+.yoga-icon-extreme-sports:before {
+  content: "\e90f";
+}
+.yoga-icon-face-mask:before {
+  content: "\e910";
+}
+.yoga-icon-face-treatments:before {
+  content: "\e911";
+}
+.yoga-icon-feel-free:before {
+  content: "\e912";
+}
+.yoga-icon-fitness:before {
+  content: "\e913";
+}
+.yoga-icon-flower:before {
+  content: "\e914";
+}
+.yoga-icon-foot-bath:before {
+  content: "\e915";
+}
+.yoga-icon-fresh-smoothie:before {
+  content: "\e916";
+}
+.yoga-icon-full-energy:before {
+  content: "\e917";
+}
+.yoga-icon-groceries:before {
+  content: "\e918";
+}
+.yoga-icon-gym:before {
+  content: "\e919";
+}
+.yoga-icon-hand-care:before {
+  content: "\e91a";
+}
+.yoga-icon-harmony:before {
+  content: "\e91b";
+}
+.yoga-icon-healthy-nutrition:before {
+  content: "\e91c";
+}
+.yoga-icon-healthy-shakes:before {
+  content: "\e91d";
+}
+.yoga-icon-heart:before {
+  content: "\e91e";
+}
+.yoga-icon-hot-herbal:before {
+  content: "\e91f";
+}
+.yoga-icon-jumping:before {
+  content: "\e920";
+}
+.yoga-icon-ladder:before {
+  content: "\e921";
+}
+.yoga-icon-lightness:before {
+  content: "\e922";
+}
+.yoga-icon-lotus:before {
+  content: "\e923";
+}
+.yoga-icon-love-yourself:before {
+  content: "\e924";
+}
+.yoga-icon-man:before {
+  content: "\e925";
+}
+.yoga-icon-mask:before {
+  content: "\e926";
+}
+.yoga-icon-massage:before {
+  content: "\e927";
+}
+.yoga-icon-massage-oil:before {
+  content: "\e928";
+}
+.yoga-icon-meditation:before {
+  content: "\e929";
+}
+.yoga-icon-meditation-1:before {
+  content: "\e92a";
+}
+.yoga-icon-meditation-2:before {
+  content: "\e92b";
+}
+.yoga-icon-meditation-3:before {
+  content: "\e92c";
+}
+.yoga-icon-meditation-4:before {
+  content: "\e92d";
+}
+.yoga-icon-music:before {
+  content: "\e92e";
+}
+.yoga-icon-natural-energy:before {
+  content: "\e92f";
+}
+.yoga-icon-no-alcohol:before {
+  content: "\e930";
+}
+.yoga-icon-no-fast-food:before {
+  content: "\e931";
+}
+.yoga-icon-no-smoking:before {
+  content: "\e932";
+}
+.yoga-icon-nutrionist:before {
+  content: "\e933";
+}
+.yoga-icon-occupation:before {
+  content: "\e934";
+}
+.yoga-icon-organic-food:before {
+  content: "\e935";
+}
+.yoga-icon-pool:before {
+  content: "\e936";
+}
+.yoga-icon-reading:before {
+  content: "\e937";
+}
+.yoga-icon-relaxing:before {
+  content: "\e938";
+}
+.yoga-icon-running:before {
+  content: "\e939";
+}
+.yoga-icon-sauna:before {
+  content: "\e93a";
+}
+.yoga-icon-sauna-1:before {
+  content: "\e93b";
+}
+.yoga-icon-schedule:before {
+  content: "\e93c";
+}
+.yoga-icon-shower:before {
+  content: "\e93d";
+}
+.yoga-icon-skincare:before {
+  content: "\e93e";
+}
+.yoga-icon-social:before {
+  content: "\e93f";
+}
+.yoga-icon-solarium:before {
+  content: "\e940";
+}
+.yoga-icon-spa:before {
+  content: "\e941";
+}
+.yoga-icon-spa-effect:before {
+  content: "\e942";
+}
+.yoga-icon-spa-room:before {
+  content: "\e943";
+}
+.yoga-icon-spa-salon:before {
+  content: "\e944";
+}
+.yoga-icon-spa-tools:before {
+  content: "\e945";
+}
+.yoga-icon-spiritual:before {
+  content: "\e946";
+}
+.yoga-icon-stick-man:before {
+  content: "\e947";
+}
+.yoga-icon-stone-massage:before {
+  content: "\e948";
+}
+.yoga-icon-strong:before {
+  content: "\e949";
+}
+.yoga-icon-sunbath:before {
+  content: "\e94a";
+}
+.yoga-icon-surfing:before {
+  content: "\e94b";
+}
+.yoga-icon-swimming:before {
+  content: "\e94c";
+}
+.yoga-icon-table-of-treatments:before {
+  content: "\e94d";
+}
+.yoga-icon-tea-ceremony:before {
+  content: "\e94e";
+}
+.yoga-icon-towel:before {
+  content: "\e94f";
+}
+.yoga-icon-training:before {
+  content: "\e950";
+}
+.yoga-icon-treatments:before {
+  content: "\e951";
+}
+.yoga-icon-treatment-specialist:before {
+  content: "\e952";
+}
+.yoga-icon-t-shirt:before {
+  content: "\e953";
+}
+.yoga-icon-vitamins:before {
+  content: "\e954";
+}
+.yoga-icon-walking:before {
+  content: "\e955";
+}
+.yoga-icon-weightlifting:before {
+  content: "\e956";
+}
+.yoga-icon-weight-loss:before {
+  content: "\e957";
+}
+.yoga-icon-wellness-center:before {
+  content: "\e958";
+}
+.yoga-icon-wellness-coach:before {
+  content: "\e959";
+}
+.yoga-icon-wellness-group:before {
+  content: "\e95a";
+}
+.yoga-icon-wellness-tourism:before {
+  content: "\e95b";
+}
+.yoga-icon-yoga:before {
+  content: "\e95c";
+}
+.yoga-icon-aromatherapy:before {
+  content: "\e95d";
+}
+.yoga-icon-bamboo-sticks:before {
+  content: "\e95e";
+}
+.yoga-icon-baseball:before {
+  content: "\e95f";
+}
+.yoga-icon-bath:before {
+  content: "\e960";
+}
+.yoga-icon-bath-1:before {
+  content: "\e961";
+}
+.yoga-icon-bathing:before {
+  content: "\e962";
+}
+.yoga-icon-bathrobe:before {
+  content: "\e963";
+}
+
